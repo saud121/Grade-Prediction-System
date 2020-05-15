@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d5d5d5"
+    android:orientation="vertical">
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/backcard"
+        android:text="Please enter the following details"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:layout_marginTop="5dp"/>
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Please enter marks for Student"
+            android:textColor="#000000"
+            android:gravity="center_vertical"/>
+        <EditText
+            android:id="@+id/marksi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:hint="1-100"
+            android:gravity="center"
+            android:textColor="#000000"
+            android:textColorHint="#ffffff"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Submit"
+        android:layout_gravity="center_horizontal"/>
+
+
+</LinearLayout>

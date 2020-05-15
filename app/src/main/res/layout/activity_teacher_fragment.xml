@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TeacherFragment"
+    android:elevation="4dp"
+    android:background="#fab209"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_marginTop="35dp"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        android:layout_alignParentTop="true"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp">
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/backcard"
+            android:elevation="10dp"
+            >
+            <LinearLayout
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                >
+                <ImageView
+                    android:layout_width="40dp"
+                    android:layout_height="60dp"
+                    android:src="@drawable/ic_local_florist_black_24dp"/>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_gravity="center_horizontal">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="20sp"
+                        android:text="Welcome to Grading Prediction System!"
+                        android:textColor="#ffffffff"/>
+                    <TextView
+                        android:id="@+id/teachername"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Sir Bilal (MSCS)"
+                        android:textSize="15sp"/>
+                    <TextView
+                        android:id="@+id/teacherdeisg"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="MACHINE LEARNING (ML-142)"
+                        android:textSize="15sp"/>
+
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+        <LinearLayout
+            android:elevation="10dp"
+            android:id="@+id/l2"
+            android:layout_marginTop="25dp"
+            android:layout_centerInParent="true"
+            android:layout_alignParentTop="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text="Please Procced to Search your Student"
+                android:textColor="#000000"/>
+            <View
+
+                android:layout_width="wrap_content"
+                android:layout_height="1dp"
+
+                android:background="#d5d5d5"
+                android:layout_marginBottom="5dp"/>
+            <SearchView
+android:id="@+id/search1"
+                android:layout_width="310dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rectangle"
+                android:queryHint="Search student here"
+                android:padding="4dp"/>
+            <androidx.recyclerview.widget.RecyclerView
+                android:layout_width="wrap_content"
+                android:layout_height="120dp"
+                android:padding="4dp"
+                android:scrollbars="vertical"
+                android:id="@+id/recycler_view"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:elevation="10dp"
+            android:id="@+id/l1"
+            android:layout_marginTop="40dp"
+            android:layout_centerInParent="true"
+            android:layout_alignParentTop="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:background="@drawable/backgroundshape"
+
+            >
+            <RelativeLayout
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_margin="4dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+
+                >
+
+                <ImageView
+                    android:id="@+id/image_view1"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:padding="2dp"
+                    android:src="@drawable/ic_whatshot_black_24dp"/>
+
+                <TextView
+                    android:id="@+id/text_view11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_toEndOf="@+id/image_view1"
+                    android:text="Student Name"
+                    android:textColor="@android:color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    />
+
+                <TextView
+                    android:id="@+id/text_view22"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text_view11"
+                    android:layout_marginStart="8dp"
+                    android:layout_toEndOf="@+id/image_view1"
+                    android:text="CMS-ID:"
+                    android:background="#d5d5d5"
+                    android:textSize="15sp" />
+
+            </RelativeLayout>
+            <Button
+                android:layout_marginTop="50dp"
+                android:layout_width="250dp"
+                android:layout_height="50dp"
+                android:background="@drawable/buttonback"
+                android:text="Predict and view grades"
+                android:textColor="#000000"
+                android:elevation="10dp"
+                android:padding="5dp"
+                android:drawableLeft="@drawable/ic_whatshot_black_24dp"
+                />
+            <View
+
+                android:layout_width="wrap_content"
+                android:layout_height="1dp"
+
+                android:background="#d5d5d5" />
+
+            <Button
+                android:id="@+id/markssubmit"
+                android:drawableLeft="@drawable/ic_playlist_add_black_24dp"
+                android:layout_marginTop="15dp"
+                android:layout_width="250dp"
+                android:layout_height="50dp"
+                android:background="@drawable/buttonback"
+                android:text="Submit Marks for Subject of a Student"
+                android:textColor="#000000"
+                android:elevation="10dp"
+                android:padding="5dp"
+
+                />
+            <View
+
+                android:layout_width="wrap_content"
+                android:layout_height="1dp"
+
+                android:background="#d5d5d5" />
+
+            <Button
+                android:id="@+id/gmail1"
+                android:drawableLeft="@drawable/ic_email_black_24dp"
+                android:layout_marginTop="15dp"
+                android:layout_width="250dp"
+                android:layout_height="50dp"
+                android:background="@drawable/buttonback"
+                android:text="Send email to Guardian"
+                android:textColor="#000000"
+                android:elevation="10dp"
+                android:padding="5dp"
+                />
+
+            <View
+
+                android:layout_width="wrap_content"
+                android:layout_height="1dp"
+
+                android:background="#d5d5d5"
+                android:layout_marginBottom="10dp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</RelativeLayout>

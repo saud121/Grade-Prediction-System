@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d5d5d5"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/backcard"
+        android:text="Please enter the following details"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:layout_marginTop="5dp"/>
+    <EditText
+        android:id="@+id/stname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:padding="5dp"
+        android:gravity="center"
+        android:hint="Please enter Teacher name here"
+        android:textColor="#000000"
+        android:textColorHint="#ffffff"/>
+    <EditText
+        android:id="@+id/stcms"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7dp"
+        android:padding="5dp"
+        android:gravity="center"
+        android:hint="Please enter Teacher password here"
+        android:textColor="#000000"
+        android:textColorHint="#ffffff"/>
+    <EditText
+        android:id="@+id/stbatch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7dp"
+        android:padding="5dp"
+        android:gravity="center"
+        android:hint="Please enter Teacher Designation here"
+        android:textColor="#000000"
+        android:textColorHint="#FFFFFF"/>
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Submit"
+        android:layout_gravity="center_horizontal"/>
+
+
+</LinearLayout>
