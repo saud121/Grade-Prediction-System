@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "department": "Q-WASA",
+    "description": "Quetta Water & Sanitation Agency",
+    "location": "Quetta, Balochistan"
+  },
+  {
+    "id": 2,
+    "department": "PHE",
+    "description": "Public Health Engineering",
+    "location": "Quetta, Balochistan"
+  },
+  {
+    "id": 3,
+    "department": "MCQ",
+    "description": "Metro",
+    "location": "Quetta, Pakistan"
+  }
+]
