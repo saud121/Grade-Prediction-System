@@ -1,0 +1,6786 @@
+[
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Abdullah Pall Street (Imdad Cinma)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5512 ± 3m",
+      "installation_date": "23/05/04",
+      "lat": "30.1888888888889",
+      "lng": "67.0036944444445",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Akhter Mohammad Road Shanti Nagar",
+      "division": "ZARGOON TOWN",
+      "elevation": "5579 ± 5m",
+      "lat": "30.1801944444444",
+      "lng": "67.0060555555556",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Alif Din Road near Quary Road RTU 35",
+      "division": "ZARGOON TOWN",
+      "elevation": "5562 ± 2m",
+      "lat": "30.1828611111111",
+      "lng": "67.0125555555556",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "QMC Store Quary Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5590 ± 4m",
+      "installation_date": "22-06-14",
+      "lat": "30.1823055555556",
+      "lng": "67.0011666666667",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Alla Dina Road Gravyard",
+      "division": "ZARGOON TOWN",
+      "elevation": "5588 ± 3m",
+      "installation_date": "18/07/16",
+      "lat": "30.1814166666667",
+      "lng": "67.0213333333333",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Arbab Samiullah / Zahir Jan Mohammad Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5538 ± 5m",
+      "installation_date": "20/11/07",
+      "lat": "30.1804722222222",
+      "lng": "67.0032777777778",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Ashyzai Masjid Pashtoonabad",
+      "division": "ZARGOON TOWN",
+      "elevation": "5641 ± 3m",
+      "lat": "30.1731666666667",
+      "lng": "67.0168888888889",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "communication type": "ER"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Arbab zahir house khudaidad road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5570 ± 3m",
+      "installation_date": "09-09-14",
+      "lat": "30.1868611111111",
+      "lng": "67.0201666666667",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Balochi Street Mecongy Road Manzoor Kakar",
+      "division": "ZARGOON TOWN",
+      "elevation": "5576 ± 3m",
+      "installation_date": "24/12/06",
+      "lat": "30.1847222222222",
+      "lng": "67.0174444444445",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Balochi Street/ Shara e Abdul Aziz PTCL Office",
+      "division": "ZARGOON TOWN",
+      "elevation": "5564 ± 4m",
+      "lat": "30.1858611111111",
+      "lng": "67.0156666666667",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Barginza Vila New Zarghoon Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5508 ± 3m",
+      "installation_date": "11/8/2006",
+      "lat": "30.1875555555556",
+      "lng": "67.0023611111111",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Barginza Vila Ward 26 Old Zarghoon Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5504 ± 4m",
+      "installation_date": "12/9/2003",
+      "lat": "30.187",
+      "lng": "67.0033055555556",
+      "pipe_diameter": "3-2.5",
+      "rock_type": "Alluvial",
+      "status": "Pump pull out since last 7 months",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Burma Street akhter Mohammad road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5564 ± 3m",
+      "lat": "30.1810555555556",
+      "lng": "67.0064444444444",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Duranni Bagh ( HR ) Kansi Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5628 ± 4m",
+      "installation_date": "25/03/99",
+      "lat": "30.1792222222222",
+      "lng": "67.0243888888889",
+      "pipe_diameter": "6",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Durrani Bagh ( HR ) Kansi Road RTU 34",
+      "division": "ZARGOON TOWN",
+      "elevation": "5616 ± 4m",
+      "installation_date": "21/08/95",
+      "lat": "30.178",
+      "lng": "67.0240277777778",
+      "pipe_diameter": "4",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Dayal Bagh (PHED)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5558 ± 4m",
+      "lat": "30.1836944444444",
+      "lng": "67.0155",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Eid gah mecongy road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5561 ± 7m",
+      "lat": "30.1829166666667",
+      "lng": "67.0135833333333",
+      "rock_type": "Alluvial",
+      "status": "Pump pull out since last 8 months",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Gari Ihatha gali Sirki Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5594 ± 4m",
+      "lat": "30.1793333333333",
+      "lng": "67.0103333333333",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Girls Collage Quarry Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5580 ± 3m",
+      "lat": "30.1820833333333",
+      "lng": "67.0132777777778",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Haji Ghaibi Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5619 ± 4m",
+      "installation_date": "29/05/03",
+      "lat": "30.18",
+      "lng": "67.0193333333333",
+      "pipe_diameter": "3",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Haji Ghaibi Road (Hassan Nazim)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5640 ± 4m",
+      "installation_date": "2/6/2006",
+      "lat": "30.1756111111111",
+      "lng": "67.0222222222222",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Halqa No 37 Mulla Salam Road RTU 61 (Naseebullah)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5636 ± 5m",
+      "lat": "30.1728888888889",
+      "lng": "67.01375",
+      "pipe_diameter": "4",
+      "rock_type": "Alluvial",
+      "status": "Not energized yet",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Hameed Street Jan Mohammad Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5587 ± 4m",
+      "installation_date": "10/05/05",
+      "lat": "30.1814166666667",
+      "lng": "67.0051944444444",
+      "pipe_diameter": "2",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Iqra City Faqeer Mohammed Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5609 ± 5m",
+      "lat": "30.1810555555556",
+      "lng": "67.0075277777778",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Ismail Colny ( Azeem Dairy ) Sirki Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5582 ± 4m",
+      "lat": "30.1757222222222",
+      "lng": "67.0127222222222",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Ismail Colony New Gali No. 4 Sirki Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5574 ± 5m",
+      "lat": "30.17725",
+      "lng": "67.0105277777778",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Ismail Colony New Gali No. 2 Badezai house",
+      "division": "ZARGOON TOWN",
+      "elevation": "5591 ± 3m",
+      "installation_date": "26.07.17",
+      "lat": "30.1765277777778",
+      "lng": "67.0136666666667",
+      "rock_type": "Alluvial",
+      "status": "Not energized yet",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mulla Salam Road Masjid Malezai",
+      "division": "ZARGOON TOWN",
+      "elevation": "5606 ± 3m",
+      "lat": "30.1751944444444",
+      "lng": "67.0143333333333",
+      "rock_type": "Alluvial",
+      "status": "Not energized yet",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "New Afghan Road (Baloch Khan Chowk)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5612 ± 4m",
+      "installation_date": "01-09-14",
+      "lat": "30.1713055555556",
+      "lng": "67.0112777777778",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Jatoi Colony Double Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5528 ± 4m",
+      "installation_date": "15//06/10",
+      "lat": "30.1776666666667",
+      "lng": "66.9998611111111",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Kansi Qabrastan Haji Umer  RTU 33",
+      "division": "ZARGOON TOWN",
+      "elevation": "5589 ± 3m",
+      "installation_date": "8/1/2002",
+      "lat": "30.1825277777778",
+      "lng": "67.0255555555556",
+      "pipe_diameter": "5",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Kansi Qabrastan Haji Umer Solar",
+      "division": "ZARGOON TOWN",
+      "elevation": "5598 ± 3m",
+      "lat": "30.18475",
+      "lng": "67.0280555555556",
+      "rock_type": "H/R",
+      "status": "Not energized yet",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Khaliqabad New Jan Mohammad Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5522 ± 3m",
+      "installation_date": "11-09-14",
+      "lat": "30.1783333333333",
+      "lng": "67.0012777777778",
+      "rock_type": "Alluvial",
+      "status": "Pump pull out since last 9 months",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Kachra Road Nazeer Kheeti",
+      "division": "ZARGOON TOWN",
+      "elevation": "5595 ± 3m",
+      "lat": "30.1784166666667",
+      "lng": "67.0142777777778",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Kachra Road Nazeer Kheeti",
+      "division": "ZARGOON TOWN",
+      "elevation": "5598 ± 3m",
+      "installation_date": "15.08.17",
+      "lat": "30.1783333333333",
+      "lng": "67.0141944444444",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Durani Haji Ghabi Road Mountain",
+      "division": "ZARGOON TOWN",
+      "elevation": "5661 ± 3m",
+      "installation_date": "23/11/07",
+      "lat": "30.1743055555556",
+      "lng": "67.0246388888889",
+      "pipe_diameter": "4",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "12"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Durani Haji Ghabi Road  Gravyard",
+      "division": "ZARGOON TOWN",
+      "elevation": "5640 ± 4m",
+      "installation_date": "23/11/07",
+      "lat": "30.1768611111111",
+      "lng": "67.0238611111111",
+      "pipe_diameter": "4",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "12"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Madrasa Tajveedul Quran Sirki Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5574 ± 4m",
+      "installation_date": "4/9/2007",
+      "lat": "30.1790277777778",
+      "lng": "67.0070555555556",
+      "pipe_diameter": "2",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Moti Ram Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5557 ± 10m",
+      "installation_date": "8/11/2002",
+      "lat": "30.1855277777778",
+      "lng": "67.0109166666667",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Malik Hassan road (PHED)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5585 ± 4m",
+      "lat": "30.1828888888889",
+      "lng": "67.018",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "New Afghan Road Sirki Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5596 ± 3m",
+      "installation_date": "15/05/07",
+      "lat": "30.1736944444444",
+      "lng": "67.0273888888889",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "New Al Gilani Road (Tahir mehmood MPA fund)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5536 ± 3m",
+      "lat": "30.18275",
+      "lng": "67.0017222222222",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Nomi Street Zarghoon Road (Kansi street)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5524 ± 3m",
+      "installation_date": "13/09/03",
+      "lat": "30.1854722222222",
+      "lng": "67.0016111111111",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Patail Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5542 ± 8m",
+      "lat": "30.18875",
+      "lng": "67.0111388888889",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "QMC Store Quary Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5571 ± 3m",
+      "installation_date": "27/08/99",
+      "lat": "30.1823055555556",
+      "lng": "67.0116944444444",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Rehmat Colony Sirki Road ( Nargis )",
+      "division": "ZARGOON TOWN",
+      "elevation": "5593 ± 3m",
+      "installation_date": "7/6/2016",
+      "lat": "30.1715833333333",
+      "lng": "67.0029444444444",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Rehmat Colny Sirki Road  Faisal street",
+      "division": "ZARGOON TOWN",
+      "elevation": "5614 ± 3m",
+      "lat": "30.1928611111111",
+      "lng": "67.0100555555556",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Ramzan gali near afghan road (baqi tube well)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5596 ± 4m",
+      "lat": "30.1745833333333",
+      "lng": "67.0120833333333",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Saleem Banglow Zarghoon Road Quetta",
+      "division": "ZARGOON TOWN",
+      "elevation": "5537 ± 4m",
+      "lat": "30.1846944444444",
+      "lng": "67.0005",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Shawekshah Road Education Directorate",
+      "division": "ZARGOON TOWN",
+      "elevation": "5540 ± 7m",
+      "installation_date": "10.05.17",
+      "lat": "30.1865833333333",
+      "lng": "67.0106666666667",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Special High School",
+      "division": "ZARGOON TOWN",
+      "elevation": "5549 ± 3m",
+      "lat": "30.1869722222222",
+      "lng": "67.0126666666667",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Sirki Kala",
+      "division": "ZARGOON TOWN",
+      "elevation": "5572 ± 3m",
+      "installation_date": "25/10/09",
+      "lat": "30.1732222222222",
+      "lng": "67.00175",
+      "pipe_diameter": "2",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Sirki Kala (Arbab)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5585 ± 3m",
+      "installation_date": "2/7/2014",
+      "lat": "30.1755833333333",
+      "lng": "67.0035",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Stewrat Road Baloch Colony",
+      "division": "ZARGOON TOWN",
+      "elevation": "5536 ± 4m",
+      "lat": "30.1873888888889",
+      "lng": "67.0052222222222",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Tareen Road near Gualmandi Police Station",
+      "division": "ZARGOON TOWN",
+      "elevation": "5611 ± 4m",
+      "installation_date": "15/07/06",
+      "lat": "30.1806388888889",
+      "lng": "67.0142777777778",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Tareen Road  (Naseeb Mama)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5619 ± 4m",
+      "installation_date": "17.08.17",
+      "lat": "30.1745277777778",
+      "lng": "67.0185555555556",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Taro Chowk Pashtoonabad",
+      "division": "ZARGOON TOWN",
+      "elevation": "5631 ± 3m",
+      "installation_date": "21/05/16",
+      "lat": "30.1742777777778",
+      "lng": "67.0166944444444",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Yousaf Homes Sirki Road near Cinema",
+      "division": "ZARGOON TOWN",
+      "elevation": "5645 ± 4m",
+      "lat": "30.1696666666667",
+      "lng": "67.0055277777778",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Zaman Khan Road Quarry Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5585 ± 4m",
+      "lat": "30.1855277777778",
+      "lng": "67.0077777777778",
+      "pipe_diameter": "2",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Rehmat Colony Wahab dairy sirki road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5597 ± 4m",
+      "lat": "30.17575",
+      "lng": "67.0120277777778",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Kucha Aman Quarry Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5543 ± 3m",
+      "lat": "30.1844722222222",
+      "lng": "67.0085277777778",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "GWALMANDI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Achakzai Market",
+      "division": "ZARGOON TOWN",
+      "elevation": "5643 ± 4m",
+      "lat": "30.1635",
+      "lng": "67.0094444444444",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Abdul Wali Chowk Pashtoonabad",
+      "division": "ZARGOON TOWN",
+      "elevation": "5690 ± 3m",
+      "lat": "30.1711666666667",
+      "lng": "67.02225",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Afghania road pashtoon town Dr Ubaidullah",
+      "division": "ZARGOON TOWN",
+      "elevation": "5824± 3m",
+      "lat": "30.0921944444444",
+      "lng": "66.99825",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Badezi Colony Pashtoonabad ( HR )",
+      "division": "ZARGOON TOWN",
+      "elevation": "5899 ± 5m",
+      "installation_date": "30/08/07",
+      "lat": "30.1574722222222",
+      "lng": "67.0311666666667",
+      "pipe_diameter": "3",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "12\\11"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Baqi Masjid kakaran Pashtoonabad RTU 60",
+      "division": "ZARGOON TOWN",
+      "elevation": "5706 ± 3m",
+      "installation_date": "23/09/03",
+      "lat": "30.1667222222222",
+      "lng": "67.0175555555556",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Barach Colony RTU 64 near Manda",
+      "division": "ZARGOON TOWN",
+      "elevation": "5583 ± 3m",
+      "installation_date": "22-10-2003",
+      "lat": "30.1576388888889",
+      "lng": "67.0203611111111",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Burraq housing scheme near jattak stop (nasrullah zaire)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5742 ± 3m",
+      "installation_date": "14/06/16",
+      "lat": "30.1458333333333",
+      "lng": "67.018",
+      "rock_type": "H/R",
+      "status": "Not energized yet",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Eastren Bypass No 1 Haji Wazir Aka (Nasrullah Zaire)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5854 ± 3m",
+      "lat": "30.0987777777778",
+      "lng": "67.0045833333333",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Ithad Chowk Pashtoonabad",
+      "division": "ZARGOON TOWN",
+      "elevation": "5653 ±4m",
+      "lat": "30.1676666666667",
+      "lng": "67.0149166666667",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Gali No 16-17-18 Pashtoonabad",
+      "division": "ZARGOON TOWN",
+      "elevation": "5731 ± 3m",
+      "installation_date": "2/10/2007",
+      "lat": "30.1663055555556",
+      "lng": "67.0205277777778",
+      "pipe_diameter": "4",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "12"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Masjid aqsa 1 near police station pashtoonabad RTU 62",
+      "division": "ZARGOON TOWN",
+      "elevation": "5661 ± 4m",
+      "installation_date": "12/9/2007",
+      "lat": "30.1711666666667",
+      "lng": "67.0185277777778",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Jadeed Abad Pashtoonabad RTU 37",
+      "division": "ZARGOON TOWN",
+      "elevation": "5654 ± 4m",
+      "installation_date": "5/2/2007",
+      "lat": "30.1656111111111",
+      "lng": "67.0133611111111",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Karam  Usmanabad PB-3",
+      "division": "ZARGOON TOWN",
+      "elevation": "5957 ± 4m",
+      "lat": "30.1600555555556",
+      "lng": "67.0393333333333",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi wardaq near jattak Stop (Nasrullah Zaire)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5838 ± 3m",
+      "installation_date": "6/5/2016",
+      "lat": "30.14725",
+      "lng": "67.0217777777778",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Taj Eastren Bypass near Graveyard",
+      "division": "ZARGOON TOWN",
+      "elevation": "5892 ± 3m",
+      "installation_date": "7/6/2017",
+      "lat": "30.0919166666667",
+      "lng": "67.0027777777778",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Taj Mohammad colony school Eastren Bypass",
+      "division": "ZARGOON TOWN",
+      "elevation": "5882 ± 3m",
+      "installation_date": "10.05.17",
+      "lat": "30.0923055555556",
+      "lng": "67.0015",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Madrasa Molvi Noor Mohammad RTU 58",
+      "division": "ZARGOON TOWN",
+      "elevation": "5619 ± 3m",
+      "installation_date": "12/9/2003",
+      "lat": "30.168",
+      "lng": "67.0099722222222",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mehmood Mina Malik din Mohammad",
+      "division": "ZARGOON TOWN",
+      "elevation": "5837 ± 3m",
+      "lat": "30.1548055555556",
+      "lng": "67.0247777777778",
+      "rock_type": "H/R",
+      "status": "Disconected by QESCO",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mehmood Mina Haji ibrahim bagh",
+      "division": "ZARGOON TOWN",
+      "elevation": "6014 ± 12m",
+      "installation_date": "01/11/95",
+      "lat": "30.1501944444444",
+      "lng": "67.0331388888889",
+      "pipe_diameter": "3",
+      "rock_type": "H/R",
+      "status": "Pump pulout since last 3 months",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "12"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mehmood Mina (Haji Ibrahim)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5978 ± 4m",
+      "installation_date": "7/9/2016",
+      "lat": "30.15225",
+      "lng": "67.0314722222222",
+      "pipe_diameter": "3",
+      "rock_type": "H/R",
+      "status": "Pump pulout since last 9 months",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mehmood Mina (New)",
+      "division": "ZARGOON TOWN",
+      "elevation": "6025 ± 3m",
+      "lat": "30.1488611111111",
+      "lng": "67.0314444444445",
+      "rock_type": "H/R",
+      "status": "Not energized yet",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mehmood Mina-1 (Haji Qahir)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5933 ± 3m",
+      "lat": "30.1548055555556",
+      "lng": "67.0311944444444",
+      "rock_type": "H/R",
+      "status": "Disconected by QESCO",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mitha Chowk Pashtoonabad RTU 79",
+      "division": "ZARGOON TOWN",
+      "elevation": "5809 ± 4m",
+      "installation_date": "30/09/03",
+      "lat": "30.1605277777778",
+      "lng": "67.0215277777778",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mitha Chowk Band Gali PB-3",
+      "division": "ZARGOON TOWN",
+      "elevation": "5543 ± 3m",
+      "installation_date": "10/9/2015",
+      "lat": "30.1618055555556",
+      "lng": "67.0243055555556",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mohammad Khair Road Pashtoonabad (HR) RTU 36",
+      "division": "ZARGOON TOWN",
+      "elevation": "5816 ± 5m",
+      "installation_date": "15/08/06",
+      "lat": "30.1635",
+      "lng": "67.02575",
+      "pipe_diameter": "4",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "12"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mohammad Khair Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5748 ± 6m",
+      "installation_date": "Nov-17",
+      "lat": "30.1685555555556",
+      "lng": "67.0259166666667",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mir Pathan ghazi Abdul Baqi Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5522 ± 3m",
+      "installation_date": "25.08.14",
+      "lat": "30.1571944444444",
+      "lng": "67.0125277777778",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Muslim Ithad colony (Abu Bakar)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5717 ± 3m",
+      "installation_date": "28-06-06",
+      "lat": "30.155",
+      "lng": "67.0150555555555",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Muslim Ithad colony (Tor jan)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5776 ± 3m",
+      "lat": "30.1525833333333",
+      "lng": "67.0189166666667",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Muslim Ithad colony (Ghafar bareech)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5820 ± 5m",
+      "lat": "30.1538055555556",
+      "lng": "67.0309444444444",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Muslim Ithad colony (Nasrullah zaire) afghania road Killi norzai",
+      "division": "ZARGOON TOWN",
+      "elevation": "5824 ± 3m",
+      "installation_date": "15.06.15",
+      "lat": "30.1491111111111",
+      "lng": "67.02025",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Muslim Ithad colony (Ghazi aslam khan road)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5708 ± 3m",
+      "lat": "30.1533611111111",
+      "lng": "67.0160833333333",
+      "rock_type": "H/R",
+      "status": "Not energized yet",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mandokhailabad (Abdullah bin masood Masjid)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5773 ± 4m",
+      "installation_date": "19.05.15",
+      "lat": "30.1343611111111",
+      "lng": "67.0167777777778",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mughalabad School RTU65",
+      "division": "ZARGOON TOWN",
+      "elevation": "5985 ± 3m",
+      "lat": "30.1490555555556",
+      "lng": "67.0285555555556",
+      "pipe_diameter": "3",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "12"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "New Marriabad Takhtani Bypass Marri Town (Nasrullah Zaire) Gulshan Town",
+      "division": "ZARGOON TOWN",
+      "elevation": "5860 ± 3m",
+      "installation_date": "31-5-17",
+      "lat": "30.1458055555556",
+      "lng": "67.0239722222222",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Takhtani ByPass 2 (Killi Master Saleem) bosa mandi",
+      "division": "ZARGOON TOWN",
+      "elevation": "5883 ± 3m",
+      "installation_date": "1/10/2014",
+      "lat": "30.1185833333333",
+      "lng": "67.0150833333333",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Takhtani ByPass 1 (Akhter Mohammad Town) (Nasrullah Zaire)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5797 ± 3m",
+      "installation_date": "26.08.14",
+      "lat": "30.1230277777778",
+      "lng": "67.0136944444444",
+      "rock_type": "H/R",
+      "status": "Disconected by QESCO since last 6 months",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Kakar Colony Hashmia Madrassa Street",
+      "division": "ZARGOON TOWN",
+      "elevation": "5666 ± 3m",
+      "lat": "30.1601388888889",
+      "lng": "67.0125833333333",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Kakar Colony Haji Anar gali school road RTU 63",
+      "division": "ZARGOON TOWN",
+      "elevation": "5686 ± 3m",
+      "installation_date": "23.06.14",
+      "lat": "30.1603333333333",
+      "lng": "67.0145277777778",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Nasrullah Khan Chowk Pashtoonabad ( HR )",
+      "division": "ZARGOON TOWN",
+      "elevation": "5740 ± 3m",
+      "installation_date": "19.07.17",
+      "lat": "30.1663055555556",
+      "lng": "67.0216944444445",
+      "pipe_diameter": "3",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Rind Garh VES-1 (HR) RTU 66",
+      "division": "ZARGOON TOWN",
+      "elevation": "5781 ± 3m",
+      "installation_date": "20-05-2004",
+      "lat": "30.1356666666667",
+      "lng": "67.0188888888889",
+      "pipe_diameter": "5",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "12"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "bosa mandi gunj naeem councellor Eastren Bypass No - 9 Pashtoon Town near Dam",
+      "division": "ZARGOON TOWN",
+      "elevation": "5863 ± 3m",
+      "installation_date": "16.10.17",
+      "lat": "30.1013888888889",
+      "lng": "67.0083888888889",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "QDA Pashtoonabadbad RTU 59",
+      "division": "ZARGOON TOWN",
+      "elevation": "5691 ± 3m",
+      "installation_date": "10/12/2015",
+      "lat": "30.1685555555556",
+      "lng": "67.0168611111111",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Sulemankhail Noorzai Pashtoonabad RTU 57",
+      "division": "ZARGOON TOWN",
+      "elevation": "5822 ± 3m",
+      "installation_date": "17/09/07",
+      "lat": "30.1593888888889",
+      "lng": "67.0258888888889",
+      "pipe_diameter": "3",
+      "rock_type": "H/R",
+      "status": "Pump pull out since last 9 months",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Wase noorzai street near tameer- i- nau model school",
+      "division": "ZARGOON TOWN",
+      "elevation": "5892 ± 3m",
+      "lat": "30.1138888888889",
+      "lng": "67.0089166666667",
+      "rock_type": "H/R",
+      "status": "Not energized yet",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Usmanabad 2 Pashtoonabad ( Pathar )",
+      "division": "ZARGOON TOWN",
+      "elevation": "5846 ± 4m",
+      "installation_date": "16-09-14",
+      "lat": "30.1622222222222",
+      "lng": "67.0281388888889",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Usmanabad 2 Pashtoonabad Phase - 1",
+      "division": "ZARGOON TOWN",
+      "elevation": "5916 ± 3m",
+      "lat": "30.1604722222222",
+      "lng": "67.0336388888889",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Usman Bagh Phase - 3",
+      "division": "ZARGOON TOWN",
+      "elevation": "5933 ± 4m",
+      "lat": "30.1621388888889",
+      "lng": "67.0359444444444",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Achakzai Colony street no-5-7 Masjid",
+      "division": "ZARGOON TOWN",
+      "elevation": "5757 ± 3m",
+      "lat": "30.1589444444444",
+      "lng": "67.0181944444444",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Achakzai Colony Street No-1 zaqoon jama",
+      "division": "ZARGOON TOWN",
+      "elevation": "5728 ± 3m",
+      "lat": "30.1623888888889",
+      "lng": "67.0190833333333",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "Pashtoonabad Sub Division",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Ali Bahadur Road near Toghi Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5580 ± 8m",
+      "installation_date": "17-09-02",
+      "lat": "30.1970555555556",
+      "lng": "67.02525",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Alpha II Marriabad ( HR ) RTU 20",
+      "division": "ZARGOON TOWN",
+      "elevation": "5740 ± 3m",
+      "installation_date": "23-09-2000",
+      "lat": "30.1792777777778",
+      "lng": "67.0381666666667",
+      "pipe_diameter": "5",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "12"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Basti Panchayat Kansi Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5534 ± 4m",
+      "installation_date": "17.02.10",
+      "lat": "30.1931388888889",
+      "lng": "67.0199444444445",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Beta II Marriabad ( HR ) RTU 8",
+      "division": "ZARGOON TOWN",
+      "elevation": "5675 ± 3m",
+      "installation_date": "28-09-02",
+      "lat": "30.1814166666667",
+      "lng": "67.0384166666667",
+      "pipe_diameter": "4",
+      "rock_type": "H/R",
+      "status": "Not energized yet",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "14"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Carpet Center Alamdar Road RTU 19",
+      "division": "ZARGOON TOWN",
+      "elevation": "5589 ± 3m",
+      "installation_date": "28-06-2006",
+      "lat": "30.1916111111111",
+      "lng": "67.0259444444445",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Circuit House Zarghoon Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5521 ± 4m",
+      "installation_date": "18-07-2006",
+      "lat": "30.1983055555556",
+      "lng": "67.0083055555556",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Circuit House ( Juniper House )",
+      "division": "ZARGOON TOWN",
+      "elevation": "5478 ± 3m",
+      "installation_date": "02.08.17",
+      "lat": "30.1991666666667",
+      "lng": "67.0084722222222",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Civil Secreteriat Car Parking",
+      "division": "ZARGOON TOWN",
+      "elevation": "5485 ± 3m",
+      "installation_date": "17.07.17",
+      "lat": "30.1946388888889",
+      "lng": "67.0044444444445",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Eid Gah Alamdar Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5584 ± 3m",
+      "installation_date": "22.02.15",
+      "lat": "30.188",
+      "lng": "67.0277222222222",
+      "rock_type": "Alluvial",
+      "status": "Not energized yet",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Ghareebabad Marriabad Graveyard ( HR ) RTU 21",
+      "division": "ZARGOON TOWN",
+      "elevation": "5638 ± 3m",
+      "installation_date": "29-3-2011",
+      "lat": "30.1823888888889",
+      "lng": "67.0359722222222",
+      "pipe_diameter": "4",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Gulistan Town Hocky Ground",
+      "division": "ZARGOON TOWN",
+      "elevation": "5578 ± 3m",
+      "installation_date": "16.01.15",
+      "lat": "30.1836388888889",
+      "lng": "67.0338888888889",
+      "rock_type": "Alluvial",
+      "status": "Not energized yet",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Gulistan Town Footbal Ground",
+      "division": "ZARGOON TOWN",
+      "elevation": "5595 ± 3m",
+      "installation_date": "11.02.15",
+      "lat": "30.1875",
+      "lng": "67.0344722222222",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Khartar (New)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5699 ± 4m",
+      "lat": "30.1791944444444",
+      "lng": "67.0316666666667",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "12"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Khartar RTU 23 (old)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5705 ± 3m",
+      "lat": "30.1789722222222",
+      "lng": "67.0311944444444",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mali Bagh Mecongy Road SDO ofice reservire",
+      "division": "ZARGOON TOWN",
+      "elevation": "5561 ± 4m",
+      "installation_date": "29-09-2003",
+      "lat": "30.1918611111111",
+      "lng": "67.0183611111111",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Marriabad Dispensorry RTU 32",
+      "division": "ZARGOON TOWN",
+      "elevation": "5673 ± 3m",
+      "installation_date": "27.08.2011",
+      "lat": "30.1807222222222",
+      "lng": "67.0367222222222",
+      "pipe_diameter": "4",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Marriabad WASA ( HR ) RTU 9",
+      "division": "ZARGOON TOWN",
+      "elevation": "5684 ± 3m",
+      "installation_date": "Jun,2019",
+      "lat": "30.1803888888889",
+      "lng": "67.0373055555555",
+      "pipe_diameter": "5",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Middle School Prince Road RTU 45",
+      "division": "ZARGOON TOWN",
+      "elevation": "5510 ± 6m",
+      "lat": "30.1914722222222",
+      "lng": "67.0096388888889",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mohkamdin Kasi Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5520 ± 6m",
+      "installation_date": "23-09-2007",
+      "lat": "30.1908611111111",
+      "lng": "67.0219166666667",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Muslimabad High School RTU 49",
+      "division": "ZARGOON TOWN",
+      "elevation": "5585 ± 4m",
+      "installation_date": "15-04-1999",
+      "lat": "30.1984722222222",
+      "lng": "67.02225",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Naseerabad Maidani Marriabad",
+      "division": "ZARGOON TOWN",
+      "elevation": "5609 ± 3m",
+      "lat": "30.1865555555556",
+      "lng": "67.0342222222222",
+      "pipe_diameter": "4",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Pir Mohammed Road Tazi Karez RTU 24",
+      "division": "ZARGOON TOWN",
+      "elevation": "5584 ± 3m",
+      "installation_date": "25-11-2001",
+      "lat": "30.1857222222222",
+      "lng": "67.0256944444444",
+      "pipe_diameter": "6",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "12"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Pak girls school near dawood shoping center (PHED)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5520 ± 4m",
+      "lat": "30.1871666666667",
+      "lng": "67.0088888888889",
+      "rock_type": "Alluvial",
+      "status": "Not energized yet",
+      "subdivision": "MALI BAGH SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Quid Abad school Taj Mohammad Road RTU 18",
+      "division": "ZARGOON TOWN",
+      "elevation": "5556 ± 3m",
+      "installation_date": "15-01-2004",
+      "lat": "30.1952222222222",
+      "lng": "67.0230555555556",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Pump pulout since last 6 months",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Quid Abad  Taj Mohammad Road police station",
+      "division": "ZARGOON TOWN",
+      "elevation": "5555 ± 3m",
+      "lat": "30.1948333333333",
+      "lng": "67.0234722222222",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Pump pulout since last 6 months",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Saeedabad Alamdar Road RTU 6",
+      "division": "ZARGOON TOWN",
+      "elevation": "5601 ± 4m",
+      "installation_date": "5/9/2015",
+      "lat": "30.18625",
+      "lng": "67.0296944444444",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Sandeman High School",
+      "division": "ZARGOON TOWN",
+      "elevation": "5523 ± 4m",
+      "lat": "30.1945833333333",
+      "lng": "67.0122222222222",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Sardar Nisar RTU",
+      "division": "ZARGOON TOWN",
+      "elevation": "5761 ± 3m",
+      "installation_date": "25-12-2012",
+      "lat": "30.1766388888889",
+      "lng": "67.0332777777778",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "12"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Shawakshah Road (Old )",
+      "division": "ZARGOON TOWN",
+      "elevation": "5527 ± 4m",
+      "installation_date": "17-12-1995",
+      "lat": "30.1890833333333",
+      "lng": "67.0124444444444",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Tail Godam RTU 48",
+      "division": "ZARGOON TOWN",
+      "elevation": "5544 ± 3m",
+      "installation_date": "25-05-2005",
+      "lat": "30.1973333333333",
+      "lng": "67.0228055555556",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Toghi Road Eid Gah",
+      "division": "ZARGOON TOWN",
+      "elevation": "5563 ±3m",
+      "installation_date": "1/6/2003",
+      "lat": "30.1946944444444",
+      "lng": "67.0249444444444",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Toghi Road End",
+      "division": "ZARGOON TOWN",
+      "elevation": "5589 ± 3m",
+      "installation_date": "17-12-2002",
+      "lat": "30.1935",
+      "lng": "67.029",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "VES II Marriabad ( HR ) RTU 7",
+      "division": "ZARGOON TOWN",
+      "elevation": "5660 ± 4m",
+      "installation_date": "27-07-2000",
+      "lat": "30.1835833333333",
+      "lng": "67.0396111111111",
+      "pipe_diameter": "5",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "12"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "VES-8 Marriabad ( HR ) RTU 31",
+      "division": "ZARGOON TOWN",
+      "elevation": "5678 ± 3m",
+      "installation_date": "22.08.2017",
+      "lat": "30.1860277777778",
+      "lng": "67.0405277777778",
+      "pipe_diameter": "5",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "12"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Yateem Khana Alamdar Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5575 ± 4m",
+      "installation_date": "10.12.15",
+      "lat": "30.1926944444444",
+      "lng": "67.0235",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Yazdan Khan High School",
+      "division": "ZARGOON TOWN",
+      "elevation": "5588 ± 3m",
+      "installation_date": "17.01.15",
+      "lat": "30.1898333333333",
+      "lng": "67.0278888888889",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Technical High School",
+      "division": "ZARGOON TOWN",
+      "elevation": "5557 ± 3m",
+      "installation_date": "28.02.2012",
+      "lat": "30.1902222222222",
+      "lng": "67.0199444444445",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mohalah Abasia near Sardar Nisar",
+      "division": "ZARGOON TOWN",
+      "elevation": "5746 ± 3m",
+      "installation_date": "2016",
+      "lat": "30.1771111111111",
+      "lng": "67.0321944444444",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "MALI BAGH SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Baloch Colony near Block 5 Satellite Town",
+      "division": "ZARGOON TOWN",
+      "elevation": "5669 ± 4m",
+      "installation_date": "17-05-01",
+      "lat": "30.1558611111111",
+      "lng": "67.0130555555556",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Barech Abad  RTU 44 (Nasrullah Zaire)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5607 ± 3m",
+      "installation_date": "21-04-17",
+      "lat": "30.1444444444444",
+      "lng": "66.9922222222222",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Not energized yet",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Block - 4 - Ladies Park Satellite Town",
+      "division": "ZARGOON TOWN",
+      "elevation": "5611 ± 3m",
+      "lat": "30.1585555555556",
+      "lng": "67.0055555555556",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Blook - 2 - Satellite Town",
+      "division": "ZARGOON TOWN",
+      "elevation": "5621 ± 4m",
+      "lat": "30.1667222222222",
+      "lng": "67.0074722222222",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Blook - 3 - Satellite Town RTU 69",
+      "division": "ZARGOON TOWN",
+      "elevation": "5657 ± 4m",
+      "installation_date": "6/5/2006",
+      "lat": "30.1635",
+      "lng": "67.0079444444445",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Blook - 5 Satellite Town Sub Division Office",
+      "division": "ZARGOON TOWN",
+      "elevation": "5614 ± 3m",
+      "lat": "30.1580277777778",
+      "lng": "67.0029722222222",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Bilal Coloy Near B - 5 Satellite Town",
+      "division": "ZARGOON TOWN",
+      "elevation": "5571 ± 3m",
+      "installation_date": "23.04.15",
+      "lat": "30.1558055555556",
+      "lng": "67.0003611111111",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Eastren by pass No - 7 Wali tokhi",
+      "division": "ZARGOON TOWN",
+      "elevation": "5697 ± 4m",
+      "installation_date": "12.04.17",
+      "lat": "30.1026111111111",
+      "lng": "67.9856388888889",
+      "rock_type": "Alluvial",
+      "status": "Pump pulout since last 4 months",
+      "subdivision": "SATELLITE TOWN SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Eastren by pass No - 8 Muslim Town behind Labour Colony",
+      "division": "ZARGOON TOWN",
+      "elevation": "5699 ± 3m",
+      "installation_date": "30-04-17",
+      "lat": "30.1189722222222",
+      "lng": "66.9913611111111",
+      "rock_type": "Alluvial",
+      "status": "Not energized yet",
+      "subdivision": "SATELLITE TOWN SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Faqeerabad Pirkaniabad Haji rehmatullah",
+      "division": "ZARGOON TOWN",
+      "elevation": "5610 ± 3m",
+      "lat": "30.1352222222222",
+      "lng": "66.9875277777778",
+      "rock_type": "Alluvial",
+      "status": "Disconected by Qesco since last 6 years",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Feroz lehri sariab link road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5557 ± 4m",
+      "lat": "30.1673888888889",
+      "lng": "66.9959166666667",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Ghousabad near Faroqia Madrassa nawabad",
+      "division": "ZARGOON TOWN",
+      "elevation": "5611 ± 4m",
+      "installation_date": "20-08-14",
+      "lat": "30.1465833333333",
+      "lng": "66.9964166666667",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Ghousabad Masjid E Aqsa Faroqia Road Abdul (Hakeem) Masjid e Rasool",
+      "division": "ZARGOON TOWN",
+      "elevation": "5629 ± 3m",
+      "installation_date": "13.04.15",
+      "lat": "30.1514166666667",
+      "lng": "66.9968055555556",
+      "rock_type": "Alluvial",
+      "status": "Disconected by Qesco since last 2 years",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Gulshan e barech takhtani bypass",
+      "division": "ZARGOON TOWN",
+      "elevation": "5717 ± 3m",
+      "lat": "30.0924722222222",
+      "lng": "66.9877222222222",
+      "rock_type": "Alluvial",
+      "status": "Not energized yet",
+      "subdivision": "SATELLITE TOWN SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Khilji Colony Masjid E Wali Kakar Chowk tora bora",
+      "division": "ZARGOON TOWN",
+      "elevation": "5630 ± 4m",
+      "installation_date": "03.03.15",
+      "lat": "30.1427222222222",
+      "lng": "66.9953333333333",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Chandni Chowk Satellite Town Block - 5",
+      "division": "ZARGOON TOWN",
+      "elevation": "5553 ± 3m",
+      "installation_date": "28-09-09",
+      "lat": "30.1596111111111",
+      "lng": "66.9987777777778",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Ghafoor Town Killi Kairullah",
+      "division": "ZARGOON TOWN",
+      "elevation": "5574 ± 4m",
+      "installation_date": "3/4/2017",
+      "lat": "30.1540555555556",
+      "lng": "66.9909166666667",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Ghousabad Uzbak Bazar ( Ali Madad Jatak )",
+      "division": "ZARGOON TOWN",
+      "elevation": "55666± 3m",
+      "installation_date": "3/7/2007",
+      "lat": "30.1552222222222",
+      "lng": "66.9943055555556",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Ghouabad  Killi Khairabad Haji Qadoos malik barech",
+      "division": "ZARGOON TOWN",
+      "elevation": "5592 ± 3m",
+      "installation_date": "13-01-03",
+      "lat": "30.1528055555555",
+      "lng": "66.9942222222222",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Ghousabad - 3 Haji Ghafoor Masjid e Aqsa",
+      "division": "ZARGOON TOWN",
+      "elevation": "5583 ± 4m",
+      "lat": "30.1536111111111",
+      "lng": "66.9934166666667",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Jhangir Street Menglabad Double Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5552 ± 3m",
+      "installation_date": "26.10.08",
+      "lat": "30.1766111111111",
+      "lng": "66.9978888888889",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Sirki Gulabad Madrassa Double Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5542 ± 3m",
+      "installation_date": "25-07-04",
+      "lat": "30.1739166666667",
+      "lng": "66.9983888888889",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Hasni Atta Mohammad (Gober Medani)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5591 ± 4m",
+      "installation_date": "8.07.04",
+      "lat": "30.1464722222222",
+      "lng": "66.9881388888889",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Submersible stucked",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Shamozai abdul wahid new abadi near Khilji Colony Sariab Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5612 ± 3m",
+      "installation_date": "20-04-17",
+      "lat": "30.1369444444444",
+      "lng": "66.9921666666667",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Alizai raz Mohammad",
+      "division": "ZARGOON TOWN",
+      "elevation": "5610 ± 3m",
+      "lat": "30.1390277777778",
+      "lng": "66.9886944444445",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Labor Colony Takhtani Bypass",
+      "division": "ZARGOON TOWN",
+      "elevation": "5774 ± 4m",
+      "lat": "30.1171944444444",
+      "lng": "66.9958611111111",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Labor Colony Takhtani Bypass (Old)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5723 ± 4m",
+      "lat": "30.11825",
+      "lng": "66.9940555555556",
+      "rock_type": "Alluvial",
+      "status": "Abandoned + back filled",
+      "subdivision": "SATELLITE TOWN SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Ladies Park Satellite Town Parigul Agha B -4",
+      "division": "ZARGOON TOWN",
+      "elevation": "5636 ± 3m",
+      "installation_date": "25-04-07",
+      "lat": "30.1583055555556",
+      "lng": "67.007",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Lal Jan Lehri Sariab Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5556 ± 4m",
+      "installation_date": "06.07.11",
+      "lat": "30.1541666666667",
+      "lng": "66.9885833333333",
+      "rock_type": "Alluvial",
+      "status": "Not energized yet",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Urban Planning Office Dubble Road",
+      "division": "ZARGOON TOWN",
+      "elevation": "5553 ± 3m",
+      "installation_date": "10.10.17",
+      "lat": "30.1719166666667",
+      "lng": "66.9993611111111",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Sabzi Mandi Sirki Road adda",
+      "division": "ZARGOON TOWN",
+      "elevation": "5565 ± 3m",
+      "installation_date": "26.07.17",
+      "lat": "30.1708611111111",
+      "lng": "66.9988055555556",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Rohani Chowk Khalifa Gali Eastren Bypass",
+      "division": "ZARGOON TOWN",
+      "elevation": "5718 ± 3m",
+      "installation_date": "9/5/2017",
+      "lat": "30.09575",
+      "lng": "66.9866666666667",
+      "rock_type": "Alluvial",
+      "status": "Not energized yet",
+      "subdivision": "SATELLITE TOWN SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Sadiqabad Takhtani Bypass Dr hassan",
+      "division": "ZARGOON TOWN",
+      "elevation": "5717 ± 3m",
+      "installation_date": "11/12/2003",
+      "lat": "30.1114166666667",
+      "lng": "66.9916388888889",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Pump pulout since last one year",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Truck Adda Satellite Town Main Chowk",
+      "division": "ZARGOON TOWN",
+      "elevation": "5582 ± 3m",
+      "installation_date": "7/6/2006",
+      "lat": "30.1672222222222",
+      "lng": "67.0014444444445",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Takhtani Bypass - 4 Noorzai Gali ithehad colony akhter jan",
+      "division": "ZARGOON TOWN",
+      "elevation": "5673 ± 3m",
+      "installation_date": "25.05.15",
+      "lat": "30.1161111111111",
+      "lng": "66.9880833333333",
+      "rock_type": "Alluvial",
+      "status": "Disconected by Qesco since last 2 years",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Takhtani Bypass - 5 Mohammad Shahi Stop",
+      "division": "ZARGOON TOWN",
+      "elevation": "5699 ± 3m",
+      "installation_date": "07.05.15",
+      "lat": "30.1255",
+      "lng": "66.9985555555556",
+      "rock_type": "Alluvial",
+      "status": "Disconected by Qesco since last 2 years",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mussa Colony hashim bareech",
+      "division": "ZARGOON TOWN",
+      "elevation": "5594 ± 3m",
+      "installation_date": "3/12/2011",
+      "lat": "30.1433055555556",
+      "lng": "66.9870555555556",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Disconected by Qesco since last 7 monts",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mussa Colony haji abdul salam councellor breechabad",
+      "division": "ZARGOON TOWN",
+      "elevation": "5615 ± 3m",
+      "installation_date": "18.04.17",
+      "lat": "30.1425833333333",
+      "lng": "66.9906944444444",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mengalabad sarmastani",
+      "division": "ZARGOON TOWN",
+      "elevation": "5565 ± 3m",
+      "lat": "30.1438888888889",
+      "lng": "66.9849444444445",
+      "rock_type": "Alluvial",
+      "status": "Closed",
+      "subdivision": "SATELLITE TOWN SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Zahir bareech mussa colony",
+      "division": "ZARGOON TOWN",
+      "elevation": "5574 ± 3m",
+      "lat": "30.1415",
+      "lng": "66.9843611111111",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Gool Masjid Satellite Town Abdullah Town",
+      "division": "ZARGOON TOWN",
+      "elevation": "5602 ± 3m",
+      "installation_date": "11.06.2006",
+      "lat": "30.1684166666667",
+      "lng": "67.0061388888889",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Gool Masjid PHED",
+      "division": "ZARGOON TOWN",
+      "elevation": "5613 ± 4m",
+      "lat": "30.1674444444444",
+      "lng": "67.0072222222222",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Khilji Colony near Madina Masjid Kochi Medani",
+      "division": "ZARGOON TOWN",
+      "elevation": "5634 ± 3m",
+      "installation_date": "26.01.16",
+      "lat": "30.1405833333333",
+      "lng": "66.998",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Khilji Colony Mussa Colony (ziaulhaq)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5582 ± 3m",
+      "installation_date": "2018",
+      "lat": "30.1424444444444",
+      "lng": "66.9884444444444",
+      "rock_type": "Alluvial",
+      "status": "Not Energized yet",
+      "subdivision": "SATELLITE TOWN SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Khilji Colony Haji Mitha Khan jamal tarakai",
+      "division": "ZARGOON TOWN",
+      "elevation": "5632 ± 3m",
+      "lat": "30.1400555555556",
+      "lng": "66.9939444444445",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Saddar Town Eastren Bypass (Nasrullah Zaire)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5711 ± 3m",
+      "lat": "30.1226388888889",
+      "lng": "66.9964722222222",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Ghousabad near nasir pouatry (Nasrullah Zaire)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5567 ± 3m",
+      "lat": "30.1522777777778",
+      "lng": "66.9928888888889",
+      "rock_type": "Alluvial",
+      "status": "Not energized yet",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Eastren Bypass No 2 Baba Jan Town (Nasrullah Zaire)",
+      "division": "ZARGOON TOWN",
+      "elevation": "5687 ± 3m",
+      "lat": "30.1280277777778",
+      "lng": "67.0006111111111",
+      "rock_type": "Alluvial",
+      "status": "Disconected by Qesco since last 4 monts",
+      "subdivision": "SATELLITE TOWN SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Barachabad near Ghousabad Abdul Rasheed Bilal Town",
+      "division": "ZARGOON TOWN",
+      "elevation": "5593 ± 3m",
+      "installation_date": "09.06.16",
+      "lat": "30.1469722222222",
+      "lng": "66.9905833333333",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SATELLITE TOWN SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "WASA reservire Ishaqabad",
+      "division": "ZARGOON TOWN",
+      "elevation": "5635 ± 4m",
+      "lat": "30.1535833333333",
+      "lng": "67.0068333333333",
+      "rock_type": "Alluvial",
+      "status": "Not Energized yet",
+      "subdivision": "SATELLITE TOWN SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Sibi road PHED",
+      "division": "ZARGOON TOWN",
+      "elevation": "5642 ± 3m",
+      "lat": "30.1603333333333",
+      "lng": "67.0060833333333",
+      "rock_type": "Alluvial",
+      "status": "Submersible stucked",
+      "subdivision": "SATELLITE TOWN SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Arbab Town Samungli Road RTU 72 (New)",
+      "division": "CHILTAN TOWN",
+      "elevation": "5384 ± 3m",
+      "installation_date": "2019",
+      "lat": "30.2183611111111",
+      "lng": "66.9814444444445",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Not Energized yet",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mir Baz Mohammad Killi Deba Kabari",
+      "division": "CHILTAN TOWN",
+      "elevation": "5465 ± 3m",
+      "lat": "30.1971388888889",
+      "lng": "66.99825",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Central High School Joint Road RTU 51",
+      "division": "CHILTAN TOWN",
+      "elevation": "5512 ± 4m",
+      "installation_date": "3/5/2006",
+      "lat": "30.1975277777778",
+      "lng": "66.9998888888889",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Chaman Housing Scheme tanki RTU 70",
+      "division": "CHILTAN TOWN",
+      "elevation": "5468 ± 4m",
+      "installation_date": "04.03.10",
+      "lat": "30.2196388888889",
+      "lng": "67.0040555555556",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Christen Colony Samungli Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5404 ± 3m",
+      "lat": "30.2168333333333",
+      "lng": "66.9816944444444",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Havey section break",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Custom Colony Airport Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5443 ± 3m",
+      "lat": "30.2253888888889",
+      "lng": "66.9996388888889",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Deba (Haji Fojan)",
+      "division": "CHILTAN TOWN",
+      "elevation": "5464 ± 4m",
+      "installation_date": "17-03-07",
+      "lat": "30.1974166666667",
+      "lng": "66.9927222222222",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Havey section break",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "DEBA NO - 1 ( Nasir lehri ) RTU 50",
+      "division": "CHILTAN TOWN",
+      "elevation": "5477 ± 4m",
+      "installation_date": "22-10-03",
+      "lat": "30.1958611111111",
+      "lng": "66.99825",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "DEBA NO - 2 Cocha arbab Sher Ali",
+      "division": "CHILTAN TOWN",
+      "elevation": "5507 ± 4m",
+      "installation_date": "29-10-02",
+      "lat": "30.1943055555556",
+      "lng": "66.9973055555556",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "DEBA NO - 3 Shah Mohammad kurd",
+      "division": "CHILTAN TOWN",
+      "elevation": "5497 ± 4m",
+      "installation_date": "17-08-06",
+      "lat": "30.19425",
+      "lng": "66.9954166666667",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Deba Langov",
+      "division": "CHILTAN TOWN",
+      "elevation": "5463 ± 3m",
+      "lat": "30.1964166666667",
+      "lng": "66.9964166666667",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Eid Gha Jail Road Hudda",
+      "division": "CHILTAN TOWN",
+      "elevation": "5454 ± 3m",
+      "installation_date": "17-07-03",
+      "lat": "30.2088333333333",
+      "lng": "66.9981944444445",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Faqirabad Chaman Phatak",
+      "division": "CHILTAN TOWN",
+      "elevation": "5513 ± 3m",
+      "installation_date": "12/7/2000",
+      "lat": "30.2037222222222",
+      "lng": "67.0021666666667",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "GOR Colony",
+      "division": "CHILTAN TOWN",
+      "elevation": "5437 ± 3m",
+      "lat": "30.2213333333333",
+      "lng": "66.9994722222222",
+      "rock_type": "Alluvial",
+      "status": "Not Energized yet",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Ismail - 1 jungla",
+      "division": "CHILTAN TOWN",
+      "elevation": "5441 ± 3m",
+      "lat": "30.2160833333333",
+      "lng": "66.9998611111111",
+      "rock_type": "Alluvial",
+      "status": "Havey section break",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Ismail - 2 Babu azad street",
+      "division": "CHILTAN TOWN",
+      "elevation": "5458 ± 3m",
+      "lat": "30.2168611111111",
+      "lng": "67.0016111111111",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Kamran Murtaza S/ Scheme",
+      "division": "CHILTAN TOWN",
+      "elevation": "5402 ± 3m",
+      "installation_date": "20-04-06",
+      "lat": "30.2174444444444",
+      "lng": "66.9838055555556",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Alam Khan Graveyard",
+      "division": "CHILTAN TOWN",
+      "elevation": "5423 ± 3m",
+      "installation_date": "25-03-2007",
+      "lat": "30.2263888888889",
+      "lng": "66.9975555555556",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Alam Khan Kansi Tubewell Maidani",
+      "division": "CHILTAN TOWN",
+      "elevation": "5384 ± 3m",
+      "installation_date": "22-05-2006",
+      "lat": "30.2279166666667",
+      "lng": "66.9941388888889",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Arbaban",
+      "division": "CHILTAN TOWN",
+      "elevation": "5402 ± 3m",
+      "lat": "30.208",
+      "lng": "66.9879444444445",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Alam Khan  Nazim RTU 17",
+      "division": "CHILTAN TOWN",
+      "elevation": "5390 ± 3m",
+      "installation_date": "12/4/2003",
+      "lat": "30.2301388888889",
+      "lng": "66.9896388888889",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Alam Khan Airpot Road (Nasir Ali Shah)",
+      "division": "CHILTAN TOWN",
+      "elevation": "5376 ± 3m",
+      "installation_date": "13.06.15",
+      "lat": "30.2313333333333",
+      "lng": "66.9942222222222",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Allah Abad Sheikh Umer Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5424 ± 3m",
+      "lat": "30.2105277777778",
+      "lng": "66.9911388888889",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Barat RTU 15",
+      "division": "CHILTAN TOWN",
+      "elevation": "5368 ± 3m",
+      "installation_date": "8/11/2003",
+      "lat": "30.2283611111111",
+      "lng": "66.9791944444444",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Gul Mohammad (Saadullah)",
+      "division": "CHILTAN TOWN",
+      "elevation": "5325 ± 3m",
+      "installation_date": "19-06-2006",
+      "lat": "30.2413055555556",
+      "lng": "66.9792777777778",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Gul Mohammad Latifabad RTU 71",
+      "division": "CHILTAN TOWN",
+      "elevation": "5293 ± 3m",
+      "installation_date": "28-08-2006",
+      "lat": "30.2476944444444",
+      "lng": "66.9792222222222",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Gul Mohammad Jalalabad",
+      "division": "CHILTAN TOWN",
+      "elevation": "5337 ± 3m",
+      "installation_date": "18-09-2003",
+      "lat": "30.2431666666667",
+      "lng": "66.9840833333333",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Abandoned, Back filled",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Ilyas near Killi Mubarak",
+      "division": "CHILTAN TOWN",
+      "elevation": "5289 ± 3m",
+      "installation_date": "18-09-2003",
+      "lat": "30.2443611111111",
+      "lng": "66.9675277777778",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Ismail Mengal Store RTU 26",
+      "division": "CHILTAN TOWN",
+      "elevation": "5428 ± 3m",
+      "installation_date": "8/8/2005",
+      "lat": "30.2139722222222",
+      "lng": "66.9959166666667",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Ismail Cantt Board",
+      "division": "CHILTAN TOWN",
+      "elevation": "5449 ± 3m",
+      "installation_date": "30.07.2001",
+      "lat": "30.2149722222222",
+      "lng": "67.0011666666667",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Ismail Madrasa Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5442 ± 3m",
+      "installation_date": "16-04-2007",
+      "lat": "30.2172222222222",
+      "lng": "66.9983888888889",
+      "pipe_diameter": "2",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Ismail Saleem Banglows BDA jinnah town",
+      "division": "CHILTAN TOWN",
+      "elevation": "5419 ± 3m",
+      "lat": "30.2150555555556",
+      "lng": "66.9946111111111",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Kabir Shehbaz Town RTU 28",
+      "division": "CHILTAN TOWN",
+      "elevation": "5465 ± 3m",
+      "installation_date": "30-07-2007",
+      "lat": "30.2080277777778",
+      "lng": "66.9997777777778",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Mubarak Shahi Karaz",
+      "division": "CHILTAN TOWN",
+      "elevation": "5233 ± 3m",
+      "installation_date": "17-09-2009",
+      "lat": "30.2483888888889",
+      "lng": "66.9630555555556",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Muslimabad Airport Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5308 ± 3m",
+      "installation_date": "28-12-2006",
+      "lat": "30.2494444444444",
+      "lng": "66.9765",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Muslimabad tawozabad",
+      "division": "CHILTAN TOWN",
+      "elevation": "5306 ± 3m",
+      "lat": "30.2524166666667",
+      "lng": "66.9673888888889",
+      "rock_type": "Alluvial",
+      "status": "Abandoned, Back filled",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi New Nichari RTU 52",
+      "division": "CHILTAN TOWN",
+      "elevation": "5442 ± 3m",
+      "installation_date": "5/10/2003",
+      "lat": "30.2116666666667",
+      "lng": "66.9918333333333",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Paind Khan",
+      "division": "CHILTAN TOWN",
+      "elevation": "5366 ± 3m",
+      "installation_date": "15-08-2007",
+      "lat": "30.2299444444444",
+      "lng": "66.98575",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Pump pulout since last 4 months",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Paind Khan Tareenabad",
+      "division": "CHILTAN TOWN",
+      "elevation": "5340 ± 3m",
+      "installation_date": "20-09-2003",
+      "lat": "30.2296944444444",
+      "lng": "66.9755833333333",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Abandoned, Back filled",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Pakhayzai Syedan Airport Road RTU5",
+      "division": "CHILTAN TOWN",
+      "elevation": "5337 ± 3m",
+      "installation_date": "28-06-2006",
+      "lat": "30.2355833333333",
+      "lng": "66.9852777777778",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Shabo ( Khetee ) RTU 14 New",
+      "division": "CHILTAN TOWN",
+      "elevation": "5385 ± 3m",
+      "installation_date": "2019",
+      "lat": "30.2286666666667",
+      "lng": "66.9879444444445",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Shabo MPA RTU 16",
+      "division": "CHILTAN TOWN",
+      "elevation": "5439 ± 3m",
+      "installation_date": "7/8/2005",
+      "lat": "30.2244722222222",
+      "lng": "66.9953888888889",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Shaikh Hussani Hudda RTU 73",
+      "division": "CHILTAN TOWN",
+      "elevation": "5439 ± 3m",
+      "installation_date": "11/10/2012",
+      "lat": "30.2056111111111",
+      "lng": "66.9916111111111",
+      "pipe_diameter": "4",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Shakerzai Syedan",
+      "division": "CHILTAN TOWN",
+      "elevation": "5333 ± 3m",
+      "installation_date": "4/9/2007",
+      "lat": "30.2331944444444",
+      "lng": "66.9815833333333",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Disconected by Qesco since last 5 months",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Juma Near Jinnah Town",
+      "division": "CHILTAN TOWN",
+      "elevation": "5357 ± 3m",
+      "installation_date": "4/3/2015",
+      "lat": "30.2240833333333",
+      "lng": "66.9819444444445",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Sherani Tarkha kheeti",
+      "division": "CHILTAN TOWN",
+      "elevation": "5416 ± 3m",
+      "installation_date": "20-01-2006",
+      "lat": "30.2007777777778",
+      "lng": "66.9900833333333",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Abandoned, Ciminted surface",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Sherani Tarkha New",
+      "division": "CHILTAN TOWN",
+      "elevation": "5420 ± 4m",
+      "lat": "30.1963888888889",
+      "lng": "66.9885833333333",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Tarkha sherani .1 Old",
+      "division": "CHILTAN TOWN",
+      "elevation": "5411 ± 4m",
+      "installation_date": "1/7/2004",
+      "lat": "30.1966388888889",
+      "lng": "66.9865555555556",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mohiddin agha pind khan road shakrzai maidani",
+      "division": "CHILTAN TOWN",
+      "elevation": "5326 ± 3m",
+      "lat": "30.2333888888889",
+      "lng": "66.9753055555556",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Tirkha Hazrat Umer",
+      "division": "CHILTAN TOWN",
+      "elevation": "5393 ± 3m",
+      "lat": "30.1992222222222",
+      "lng": "66.9902777777778",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Zardan RTU 55",
+      "division": "CHILTAN TOWN",
+      "elevation": "5308 ± 3m",
+      "installation_date": "10/6/2004",
+      "lat": "30.2372222222222",
+      "lng": "66.97225",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Labour Colony Jinnah Town",
+      "division": "CHILTAN TOWN",
+      "elevation": "5414 ± 3m",
+      "installation_date": "13-10-2003",
+      "lat": "30.2228055555556",
+      "lng": "66.9911111111111",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Abandoned, pump stucked",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Lehri Gate Samungli Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5321 ± 3m",
+      "installation_date": "15-12-12",
+      "lat": "30.2231388888889",
+      "lng": "66.9755",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Pir Mohammad Road Hudda",
+      "division": "CHILTAN TOWN",
+      "elevation": "5453 ± 3m",
+      "installation_date": "22.06.15",
+      "lat": "30.2085555555556",
+      "lng": "66.9942777777778",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Pir Mohammed Road Manojan Road ada",
+      "division": "CHILTAN TOWN",
+      "elevation": "5434 ± 3m",
+      "installation_date": "23-03-07",
+      "lat": "30.2058055555556",
+      "lng": "66.9974166666667",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Samungli Housing Scheme ( Chorangi )",
+      "division": "CHILTAN TOWN",
+      "elevation": "5384 ± 3m",
+      "lat": "30.2172777777778",
+      "lng": "66.9856666666667",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Samungli Housing Scheme ( Tanki )",
+      "division": "CHILTAN TOWN",
+      "elevation": "5416 ± 4m",
+      "installation_date": "04.11.10",
+      "lat": "30.2168055555556",
+      "lng": "66.9875277777778",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Sangeen Housing Scheme Airport Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5266 ± 4m",
+      "installation_date": "18-02-15",
+      "lat": "30.2552777777778",
+      "lng": "66.9666666666667",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Sheikh Umer Road Jail Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5443 ± 3m",
+      "installation_date": "13.06.15",
+      "lat": "30.2089722222222",
+      "lng": "66.9960555555556",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Christian Spini Road Kamran Jeorge",
+      "division": "CHILTAN TOWN",
+      "elevation": "5353 ± 3m",
+      "lat": "30.2168888888889",
+      "lng": "66.98175",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Sabzal Road Gulab Gali",
+      "division": "CHILTAN TOWN",
+      "elevation": "5384 ± 3m",
+      "installation_date": "13-05-17",
+      "lat": "30.2048333333333",
+      "lng": "66.9777222222222",
+      "rock_type": "Alluvial",
+      "status": "Not Energized yet",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Tehsil Office Chaman Phattak",
+      "division": "CHILTAN TOWN",
+      "elevation": "5469 ± 3m",
+      "lat": "30.20075",
+      "lng": "67.0018888888889",
+      "rock_type": "Alluvial",
+      "status": "Not Energized yet",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Tajikabad Killi Ismail",
+      "division": "CHILTAN TOWN",
+      "elevation": "5465 ± 3m",
+      "installation_date": "23.12.10",
+      "lat": "30.2203055555556",
+      "lng": "66.9971944444445",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Alam Khan jan Mohammad",
+      "division": "CHILTAN TOWN",
+      "elevation": "5408 ± 3m",
+      "lat": "30.2279722222222",
+      "lng": "#VALUE!",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi baranzai new",
+      "division": "CHILTAN TOWN",
+      "elevation": "5407 ± 3m",
+      "lat": "30.2035277777778",
+      "lng": "66.9859166666667",
+      "rock_type": "Alluvial",
+      "status": "Not Energized yet",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi deba sardar raza bareech",
+      "division": "CHILTAN TOWN",
+      "elevation": "5471 ± 3m",
+      "lat": "30.1962777777778",
+      "lng": "66.9985555555556",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi deba Dr naqeebullah",
+      "division": "CHILTAN TOWN",
+      "elevation": "5480 ± 3m",
+      "lat": "30.1953333333333",
+      "lng": "66.9958333333333",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi deba akber street",
+      "division": "CHILTAN TOWN",
+      "elevation": "5437 ± 3m",
+      "lat": "30.1977222222222",
+      "lng": "66.9948611111111",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Shabo Yousafzai Colony",
+      "division": "CHILTAN TOWN",
+      "elevation": "5437 ± 4m",
+      "lat": "30.2228611111111",
+      "lng": "66.9979722222222",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "AYUB STADIUM SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Airport Villas Westren Bypass",
+      "division": "CHILTAN TOWN",
+      "elevation": "5242 ± 3m",
+      "installation_date": "16-12-06",
+      "lat": "30.2485833333333",
+      "lng": "66.9586388888889",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Kakar town Akbarabad pashtoobagh RTU 27",
+      "division": "CHILTAN TOWN",
+      "elevation": "5435 ± 3m",
+      "installation_date": "2018",
+      "lat": "30.19925",
+      "lng": "66.9643333333333",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Ali Abad Hazara Town",
+      "division": "CHILTAN TOWN",
+      "elevation": "5505 ± 4m",
+      "lat": "30.1819166666667",
+      "lng": "67.2586944444444",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Heavy Section break",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Chiltan-1 Western Bypass RTU 30",
+      "division": "CHILTAN TOWN",
+      "elevation": "5660 ± 10m",
+      "installation_date": "18-11-2003",
+      "lat": "30.1654722222222",
+      "lng": "66.9481388888889",
+      "pipe_diameter": "5",
+      "rock_type": "H/R",
+      "status": "Abandoned",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "14/12"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Cooperative Society Brewery RTU 29",
+      "division": "CHILTAN TOWN",
+      "elevation": "5570 ± 3m",
+      "installation_date": "17-10-2009",
+      "lat": "30.1902777777778",
+      "lng": "66.9589444444444",
+      "pipe_diameter": "3",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Dehwar Colony Kirani Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5449 ± 4m",
+      "installation_date": "31-05-2006",
+      "lat": "30.1743055555556",
+      "lng": "66.975",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Gulshan e Igbal Kirani",
+      "division": "CHILTAN TOWN",
+      "elevation": "5440 ± 3m",
+      "installation_date": "25-04-18",
+      "lat": "30.1759722222222",
+      "lng": "66.9768333333333",
+      "rock_type": "Alluvial",
+      "status": "Not Energized yet",
+      "subdivision": "BREWERY SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Hazara Town Qabrastan",
+      "division": "CHILTAN TOWN",
+      "elevation": "5522 ± 3m",
+      "installation_date": "10.04.11",
+      "lat": "30.1806944444444",
+      "lng": "66.9544166666667",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Heavy Section break",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Hazara Town Gulshan Hassan",
+      "division": "CHILTAN TOWN",
+      "elevation": "5560 ± 3m",
+      "installation_date": "13.01.15",
+      "lat": "30.1837222222222",
+      "lng": "66.9528888888889",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Hazara Town Masjid Abu Talib",
+      "division": "CHILTAN TOWN",
+      "elevation": "5522 ± 3m",
+      "lat": "30.1809444444444",
+      "lng": "66.9516111111111",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "BREWERY SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Muslim Ithad Colony Kirani Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5451 ± 3m",
+      "installation_date": "10.06.15",
+      "lat": "30.1762777777778",
+      "lng": "66.9732222222222",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Karkhasa-1 ( HR )",
+      "division": "CHILTAN TOWN",
+      "elevation": "5650 ± 3m",
+      "installation_date": "4/9/2014",
+      "lat": "30.1873611111111",
+      "lng": "66.9488333333333",
+      "pipe_diameter": "4",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "14/12"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Karkhasa - 3",
+      "division": "CHILTAN TOWN",
+      "elevation": "5786 ± 5m",
+      "installation_date": "16-11-14",
+      "lat": "30.1848055555556",
+      "lng": "66.94125",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "14/12"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Karkhasa-5 ( HR )",
+      "division": "CHILTAN TOWN",
+      "elevation": "5871 ± 5m",
+      "installation_date": "30-10-2017",
+      "lat": "30.1793055555556",
+      "lng": "66.93725",
+      "pipe_diameter": "5",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "10\\12"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Karkhasa-7 ( HR )",
+      "division": "CHILTAN TOWN",
+      "elevation": "5983 ± 6m",
+      "installation_date": "17-06-03",
+      "lat": "30.1723333333333",
+      "lng": "66.9318611111111",
+      "pipe_diameter": "5",
+      "rock_type": "H/R",
+      "status": "Abandoned",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "10\\8"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Ibrahimzai Brewery Road RTU 47",
+      "division": "CHILTAN TOWN",
+      "elevation": "5440 ± 3m",
+      "installation_date": "28-10-03",
+      "lat": "30.1874166666667",
+      "lng": "66.984",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Ibrahimzai Brewery Road aimal kansi",
+      "division": "CHILTAN TOWN",
+      "elevation": "5449 ± 3m",
+      "installation_date": "2011",
+      "lat": "30.1876388888889",
+      "lng": "66.9870277777778",
+      "rock_type": "Alluvial",
+      "status": "Pump pulout since last 4 months",
+      "subdivision": "BREWERY SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "easa nagri  sabzal road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5435 ± 3m",
+      "installation_date": "5/6/2017",
+      "lat": "30.1875",
+      "lng": "66.9810833333333",
+      "rock_type": "Alluvial",
+      "status": "Not Energized yet",
+      "subdivision": "BREWERY SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Shahowzai",
+      "division": "CHILTAN TOWN",
+      "elevation": "5427 ± 3m",
+      "installation_date": "17-10-03",
+      "lat": "30.1919444444444",
+      "lng": "66.9856111111111",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Khazi II Western Bypass RTU 13",
+      "division": "CHILTAN TOWN",
+      "elevation": "5295 ± 3m",
+      "installation_date": "12/10/2003",
+      "lat": "30.2313055555556",
+      "lng": "66.9588055555556",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Pump pulout since last 2 year",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi badezai khaizi chowk W 3",
+      "division": "CHILTAN TOWN",
+      "elevation": "5331 ± 3m",
+      "lat": "30.2257222222222",
+      "lng": "66.9565833333333",
+      "rock_type": "Alluvial",
+      "status": "Not Energized yet",
+      "subdivision": "BREWERY SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Khilji sabzal road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5383 ± 4m",
+      "lat": "30.2178888888889",
+      "lng": "66.9715555555556",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "BREWERY SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Badal Khan Arbab Karam Khan Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5445 ± 3m",
+      "installation_date": "14-06-14",
+      "lat": "30.1811111111111",
+      "lng": "66.9779166666667",
+      "pipe_diameter": "New",
+      "rock_type": "Alluvial",
+      "status": "Disconected by Qesco since last 2 monts",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Poodgali Chowk baqi bangulzai",
+      "division": "CHILTAN TOWN",
+      "elevation": "5443 ± 4m",
+      "installation_date": "23-08-1999",
+      "lat": "30.1794444444444",
+      "lng": "66.9796944444444",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Railway Formen Colony javed nazim",
+      "division": "CHILTAN TOWN",
+      "elevation": "5490 ± 3m",
+      "lat": "30.1906666666667",
+      "lng": "66.9974166666667",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Not Energized yet",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Sherenab-1 Behind Haji Camp  ( HR )",
+      "division": "CHILTAN TOWN",
+      "elevation": "5707 ± 24m",
+      "installation_date": "14-11-03",
+      "lat": "30.2533333333333",
+      "lng": "66.9448333333333",
+      "pipe_diameter": "3",
+      "rock_type": "H/R",
+      "status": "Abandoned",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "12"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Sherenab-2 Behind Haji Camp ( HR )",
+      "division": "CHILTAN TOWN",
+      "elevation": "5775 ± 5m",
+      "installation_date": "17-09-03",
+      "lat": "30.2031666666667",
+      "lng": "66.9460555555556",
+      "pipe_diameter": "3",
+      "rock_type": "H/R",
+      "status": "Abandoned",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Sheikh manda baba ziarat airprt road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5238 ± 3m",
+      "lat": "30.2544722222222",
+      "lng": "66.9561666666667",
+      "rock_type": "Alluvial",
+      "status": "Abandoned, back filled",
+      "subdivision": "BREWERY SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Siddiqabad noorzai chowk pashtoonbagh",
+      "division": "CHILTAN TOWN",
+      "elevation": "5355 ± 3m",
+      "lat": "30.2153055555556",
+      "lng": "66.9677222222222",
+      "rock_type": "Alluvial",
+      "status": "Pump pulout since last 8 months",
+      "subdivision": "BREWERY SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Muslimabad Sabzal Road Sasoli Gali",
+      "division": "CHILTAN TOWN",
+      "elevation": "5378 ± 3m",
+      "installation_date": "07.04.15",
+      "lat": "30.2067222222222",
+      "lng": "66.9778888888889",
+      "rock_type": "Alluvial",
+      "status": "Not Energized yet",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "PSW - 1 Spini Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5440 ± 3m",
+      "installation_date": "20-06-14",
+      "lat": "30.1987777777778",
+      "lng": "66.9673055555556",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "BREWERY SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Ithad Colony Kirani Road aminabad",
+      "division": "CHILTAN TOWN",
+      "elevation": "5428 ± 4m",
+      "lat": "30.1755277777778",
+      "lng": "66.97225",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "BREWERY SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Railway Housing Society Joint Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5456 ± 3m",
+      "installation_date": "18.07.17",
+      "lat": "30.1873888888889",
+      "lng": "66.9943333333333",
+      "pipe_diameter": ".10-09-2009",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "BREWERY SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Wali Jan nazim killi mir jalat pashtoonbagh",
+      "division": "CHILTAN TOWN",
+      "elevation": "5405 ± 4m",
+      "lat": "30.2117222222222",
+      "lng": "66.96175",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "BREWERY SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "WASA Store Western Bypass",
+      "division": "CHILTAN TOWN",
+      "elevation": "5431 ± 3m",
+      "installation_date": "02.09.17",
+      "lat": "30.2033611111111",
+      "lng": "66.9578055555556",
+      "pipe_diameter": "3",
+      "rock_type": "H/R",
+      "status": "Not Energized yet",
+      "subdivision": "BREWERY SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Pashtoon Bagh Haji Lal Gul",
+      "division": "CHILTAN TOWN",
+      "elevation": "5405 ± 3m",
+      "installation_date": "24-11-09",
+      "lat": "30.2053055555556",
+      "lng": "66.9655555555556",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "BREWERY SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Haji niaz pashtoonbagh",
+      "division": "CHILTAN TOWN",
+      "elevation": "5413 ± 3m",
+      "lat": "30.2056944444444",
+      "lng": "66.9638888888889",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "BREWERY SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Kharootabad UNICEF",
+      "division": "CHILTAN TOWN",
+      "elevation": "5338 ± 3m",
+      "lat": "30.2186944444444",
+      "lng": "66.9648888888889",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "BREWERY SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Add N - 3 RTU 2",
+      "division": "CHILTAN TOWN",
+      "elevation": "5352 ± 3m",
+      "installation_date": "20-05-01",
+      "lat": "30.2680555555556",
+      "lng": "66.9984166666667",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Almo Chowk Mandokhail Plaza RTU 53",
+      "division": "CHILTAN TOWN",
+      "elevation": "5450 ± 4m",
+      "installation_date": "4/10/2003",
+      "lat": "30.22925",
+      "lng": "66.999",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Bashir Masihabad RTU 1",
+      "division": "CHILTAN TOWN",
+      "elevation": "5452 ± 3m",
+      "installation_date": "1/5/2007",
+      "lat": "30.2430833333333",
+      "lng": "67.0101666666667",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Chashma Choie Air Port Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5250 ± 3m",
+      "installation_date": "17-06-06",
+      "lat": "30.2736944444444",
+      "lng": "66.9500833333333",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Chasma achozai Dr. noman (PHED)",
+      "division": "CHILTAN TOWN",
+      "elevation": "5215 ± 3m",
+      "lat": "30.2708805555556",
+      "lng": "66.95725",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Chasma achozai killi Domran (PHED)",
+      "division": "CHILTAN TOWN",
+      "elevation": "5247 ± 3m",
+      "lat": "30.2791111111111",
+      "lng": "66.9581666666667",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Chiltan Housing Scheme Masjid RTU 12 (bari tanki)",
+      "division": "CHILTAN TOWN",
+      "elevation": "5323 ± 3m",
+      "installation_date": "27-05-03",
+      "lat": "30.2579166666667",
+      "lng": "66.9695277777778",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Pump pulout since last 3 months",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Chiltan Housing Scheme choti Tanki",
+      "division": "CHILTAN TOWN",
+      "elevation": "5278 ± 4m",
+      "installation_date": "10/8/2007",
+      "lat": "30.2570833333333",
+      "lng": "66.97075",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Pump pulout since last 1 year",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Chiltan Housing Scheme ( Khan of Kalat )",
+      "division": "CHILTAN TOWN",
+      "elevation": "5272 ± 3m",
+      "lat": "30.2586944444444",
+      "lng": "66.9653611111111",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Chiltan Housing Scheme (Samina murwat)",
+      "division": "CHILTAN TOWN",
+      "elevation": "5304 ± 4m",
+      "installation_date": "8/5/2017",
+      "lat": "30.2585833333333",
+      "lng": "66.9715277777778",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "D-1 Darra Manda  RTU 38 Solar",
+      "division": "CHILTAN TOWN",
+      "elevation": "6344 ± 4m",
+      "installation_date": "2019",
+      "lat": "30.33075",
+      "lng": "67.0318055555556",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "12\\10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "D-2 Darra Manda Solar",
+      "division": "CHILTAN TOWN",
+      "elevation": "5342 ± 4m",
+      "installation_date": "28-08-02",
+      "lat": "30.3306388888889",
+      "lng": "67.0316944444444",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "12\\10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "D-3 Darra Manda",
+      "division": "CHILTAN TOWN",
+      "elevation": "6338 ± 3m",
+      "installation_date": "6/8/2002",
+      "lat": "30.33125",
+      "lng": "67.0320277777778",
+      "rock_type": "H/R",
+      "status": "Stand By + Not Energized Yet",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "14/12"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "D-4 Darra Manda",
+      "division": "CHILTAN TOWN",
+      "elevation": "6086 ± 3m",
+      "installation_date": "18-09-02",
+      "lat": "30.3233055555556",
+      "lng": "67.02175",
+      "pipe_diameter": "5",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "14\\12"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "D-5 Darra Manda  RTU 39",
+      "division": "CHILTAN TOWN",
+      "elevation": "6320 ± 7m",
+      "installation_date": "29-10-02",
+      "lat": "30.3295",
+      "lng": "67.0351388888889",
+      "pipe_diameter": "3",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "14\\12"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "DN-1 ( HR ) RTU 40",
+      "division": "CHILTAN TOWN",
+      "elevation": "5787 ± 3m",
+      "installation_date": "30-11-02",
+      "lat": "30.3108888888889",
+      "lng": "67.0051944444444",
+      "pipe_diameter": "3",
+      "rock_type": "H/R",
+      "status": "Abandoned",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "8"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "DN-5 Kach Road ( HR )",
+      "division": "CHILTAN TOWN",
+      "elevation": "6025 ± 3m",
+      "installation_date": "3/9/2003",
+      "lat": "30.2634166666667",
+      "lng": "67.0809166666667",
+      "pipe_diameter": "5",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "14"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Jattak Abad Airport Road RTU 10",
+      "division": "CHILTAN TOWN",
+      "elevation": "5282 ± 4m",
+      "installation_date": "4/4/2007",
+      "lat": "30.2518055555556",
+      "lng": "66.9770833333333",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Almas",
+      "division": "CHILTAN TOWN",
+      "elevation": "5312 ± 3m",
+      "installation_date": "02.07.1989",
+      "lat": "30.2597777777778",
+      "lng": "66.9784722222222",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "8"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Almas Agha Vila RTU 11",
+      "division": "CHILTAN TOWN",
+      "elevation": "5320 ± 4m",
+      "installation_date": "27-06-2006",
+      "lat": "30.2573055555556",
+      "lng": "66.9763611111111",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Almas Kharotabad",
+      "division": "CHILTAN TOWN",
+      "elevation": "5312 ± 3m",
+      "installation_date": "27-03-2007",
+      "lat": "30.2583888888889",
+      "lng": "66.9809722222222",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Kotwal Rahim Kakar",
+      "division": "CHILTAN TOWN",
+      "elevation": "5443 ± 3m",
+      "installation_date": "5/1/2005",
+      "lat": "30.2333888888889",
+      "lng": "67.0008055555556",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Mandokhail Nawa Killi",
+      "division": "CHILTAN TOWN",
+      "elevation": "5515 ± 3m",
+      "lat": "30.2398611111111",
+      "lng": "67.0163333333333",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "lat_2",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Shah Mardan Nawa Killi",
+      "division": "CHILTAN TOWN",
+      "elevation": "5487 ± 4m",
+      "installation_date": "26-04-2002",
+      "lat": "30.2419166666667",
+      "lng": "67.0112777777778",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Mulakhailabad Nawa killi",
+      "division": "CHILTAN TOWN",
+      "elevation": "5542 ± 3m",
+      "installation_date": "9/5/2007",
+      "lat": "30.2465555555556",
+      "lng": "67.0233333333333",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Mulezai Kuchlak",
+      "division": "CHILTAN TOWN",
+      "elevation": "5150 ± 5m",
+      "lat": "30.3063333333333",
+      "lng": "66.9382222222222",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Samalabad Airport Road RTU 54",
+      "division": "CHILTAN TOWN",
+      "elevation": "5287 ± 3m",
+      "installation_date": "6/8/2006",
+      "lat": "30.26375",
+      "lng": "66.9706388888889",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi  Samaly Kuchlak",
+      "division": "CHILTAN TOWN",
+      "elevation": "5217 ± 3m",
+      "installation_date": "10/6/2004",
+      "lat": "30.3244444444444",
+      "lng": "66.9360833333333",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Section break",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Kocha Malik Tahir Nawan Killi",
+      "division": "CHILTAN TOWN",
+      "elevation": "5505 ± 3m",
+      "installation_date": "10.08.17",
+      "lat": "30.2358611111111",
+      "lng": "67.0149444444444",
+      "rock_type": "Alluvial",
+      "status": "Not energized yet",
+      "subdivision": "NAWA KILLI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Kakarabad Malik sikander nawa killi",
+      "division": "CHILTAN TOWN",
+      "elevation": "5471 ± 3m",
+      "lat": "30.2445277777778",
+      "lng": "67.0126388888889",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Madani Mohala Shalkot Killi Umer RTU 4",
+      "division": "CHILTAN TOWN",
+      "elevation": "5434 ± 4m",
+      "lat": "30.2333888888889",
+      "lng": "66.9983611111111",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "N - 10",
+      "division": "CHILTAN TOWN",
+      "elevation": "5385 ± 3m",
+      "installation_date": "18-10-2000",
+      "lat": "30.2774722222222",
+      "lng": "67.003",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "N - 2",
+      "division": "CHILTAN TOWN",
+      "elevation": "5334 ± 3m",
+      "lat": "30.2911944444444",
+      "lng": "66.9576666666667",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "N - 3",
+      "division": "CHILTAN TOWN",
+      "elevation": "5227 ± 3m",
+      "installation_date": "2/3/2001",
+      "lat": "30.2846111111111",
+      "lng": "66.9477222222222",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "N - 5",
+      "division": "CHILTAN TOWN",
+      "elevation": "5338 ± 3m",
+      "installation_date": "18-06-2004",
+      "lat": "30.2696388888889",
+      "lng": "66.9939166666667",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Back Filled with stones",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "N - 4",
+      "division": "CHILTAN TOWN",
+      "elevation": "5277 ± 3m",
+      "lat": "30.2841666666667",
+      "lng": "66.9769166666667",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Back Filled with stones",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "N - 8",
+      "division": "CHILTAN TOWN",
+      "elevation": "5311 ± 3m",
+      "installation_date": "30-07-2004",
+      "lat": "30.2804166666667",
+      "lng": "66.9843055555556",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Non functional since last 2 years",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "N - 7",
+      "division": "CHILTAN TOWN",
+      "elevation": "5282 ± 3m",
+      "lat": "30.2896944444444",
+      "lng": "66.9688055555556",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Not energized yet",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "N - 9",
+      "division": "CHILTAN TOWN",
+      "elevation": "5448 ± 3m",
+      "installation_date": "18-01-2001",
+      "lat": "30.2768333333333",
+      "lng": "67.0146944444444",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Qilla Saidan Airport Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5363 ± 3m",
+      "installation_date": "2018",
+      "lat": "30.2448055555556",
+      "lng": "66.9851944444445",
+      "rock_type": "Alluvial",
+      "status": "Not energized yet",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Nawa Killi Near Jamia Masjid",
+      "division": "CHILTAN TOWN",
+      "elevation": "5537 ± 3m",
+      "installation_date": "24-06-2006",
+      "lat": "30.2338888888889",
+      "lng": "67.0149166666667",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Heavy Section break",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Nawa Killi reservire zarghoonabad",
+      "division": "CHILTAN TOWN",
+      "elevation": "5559 ± 3m",
+      "lat": "30.2409166666667",
+      "lng": "67.12575",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Sarakhula No-1",
+      "division": "CHILTAN TOWN",
+      "elevation": "5854 ± 4m",
+      "installation_date": "22-10-2017",
+      "lat": "30.27325",
+      "lng": "67.0773888888889",
+      "rock_type": "Alluvial",
+      "status": "Not energized yet",
+      "subdivision": "NAWA KILLI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Sarakhula No-2",
+      "division": "CHILTAN TOWN",
+      "elevation": "5930 ± 4m",
+      "installation_date": "10.10.17",
+      "lat": "30.2731944444444",
+      "lng": "67.27875",
+      "rock_type": "Alluvial",
+      "status": "Back Filled with stones,Not energized yet",
+      "subdivision": "NAWA KILLI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Sarakhula No-3",
+      "division": "CHILTAN TOWN",
+      "elevation": "5610 ± 3m",
+      "installation_date": "12.12.17",
+      "lat": "30.2748611111111",
+      "lng": "67.2804444444444",
+      "rock_type": "Alluvial",
+      "status": "Back Filled with stones,Not energized yet",
+      "subdivision": "NAWA KILLI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Zarghoonabad Nawan Killi (New)",
+      "division": "CHILTAN TOWN",
+      "elevation": "5561± 4m",
+      "lat": "30.2329722222222",
+      "lng": "67.0205833333333",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Zarghoonabad Nawan Killi (old)",
+      "division": "CHILTAN TOWN",
+      "elevation": "5609 ± 4m",
+      "installation_date": "24-07-2003",
+      "lat": "30.2337777777778",
+      "lng": "67.0216111111111",
+      "pipe_diameter": "2",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Zarghoonabad Phase 2 newly take over",
+      "division": "CHILTAN TOWN",
+      "elevation": "5568 ± 3m",
+      "lat": "30.2401666666667",
+      "lng": "67.0245",
+      "pipe_diameter": "2",
+      "rock_type": "Alluvial",
+      "status": "Not energized yet",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Labour Colony Nawa Killi New RTU 3",
+      "division": "CHILTAN TOWN",
+      "elevation": "5575 ± 3m",
+      "installation_date": "4/9/2007",
+      "lat": "30.2465277777778",
+      "lng": "67.0245555555556",
+      "pipe_diameter": "2",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Nasiran (New)",
+      "division": "CHILTAN TOWN",
+      "elevation": "5552 ± 3m",
+      "lat": "30.2365277777778",
+      "lng": "67.0181111111111",
+      "rock_type": "Alluvial",
+      "status": "Disconected by Qesco since last 8 months",
+      "subdivision": "NAWA KILLI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Nasiran Near Zarghoonabad (old)",
+      "division": "CHILTAN TOWN",
+      "elevation": "5535 ± 3m",
+      "lat": "30.2364722222222",
+      "lng": "67.0199166666667",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "NAWA KILLI SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Naik Mohammad Zamindar Road (Zaman Jattak)",
+      "division": "CHILTAN TOWN",
+      "elevation": "5529 ± 3m",
+      "lat": "30.1625555555556",
+      "lng": "66.9848611111111",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Dur Mohammad Zamendar Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5546 ± 3m",
+      "installation_date": "25-07-2006",
+      "lat": "30.1620555555556",
+      "lng": "66.9825",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Geo Chashma Koz Bagh",
+      "division": "CHILTAN TOWN",
+      "elevation": "5494 ± 3m",
+      "installation_date": "22-07-2006",
+      "lat": "30.1671666666667",
+      "lng": "66.9774444444444",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Heavy section break",
+      "subdivision": "SARIAB 2 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Rahim Colony Zamindar Road Sariab Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5525± 3m",
+      "lat": "30.1626666666667",
+      "lng": "66.9831944444445",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Lehri Abad Qambrani",
+      "division": "CHILTAN TOWN",
+      "elevation": "5460± 4m",
+      "installation_date": "3/2/2007",
+      "lat": "30.1575277777778",
+      "lng": "66.9617222222222",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Ghareebabad Sariab Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5543 ± 3m",
+      "installation_date": "20-06-2006",
+      "lat": "30.15975",
+      "lng": "66.99025",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Haqabad",
+      "division": "CHILTAN TOWN",
+      "elevation": "5571 ± 3m",
+      "lat": "30.155",
+      "lng": "66.9883055555556",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Sardar kamal khan bangulzai khalifa gali",
+      "division": "CHILTAN TOWN",
+      "elevation": "5545 ± 3m",
+      "lat": "30.1563055555556",
+      "lng": "66.9833055555556",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Nasir qamrani killi bangulzai",
+      "division": "CHILTAN TOWN",
+      "elevation": "5523 ± 3m",
+      "installation_date": "28-06-2006",
+      "lat": "30.1491666666667",
+      "lng": "66.9773611111111",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Kachi Baig Umer Farooq Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5561 ± 3m",
+      "installation_date": "7/6/2006",
+      "lat": "30.133",
+      "lng": "66.9723333333333",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Kachi Baig Jamiat Rai Road RTU 43",
+      "division": "CHILTAN TOWN",
+      "elevation": "5575 ± 4m",
+      "installation_date": "28-01-2007",
+      "lat": "30.1349166666667",
+      "lng": "66.9746666666667",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Chakul mian khan PHED new",
+      "division": "CHILTAN TOWN",
+      "elevation": "5550 ± 3m",
+      "lat": "30.1364166666667",
+      "lng": "66.9734722222222",
+      "rock_type": "Alluvial",
+      "status": "not energized yet",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Zehri town hazarganji",
+      "division": "CHILTAN TOWN",
+      "elevation": "5566 ± 3m",
+      "installation_date": "11/7/2006",
+      "lat": "30.1398055555556",
+      "lng": "66.97875",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Hafiz Basit Kechi Baig killi shahjahan",
+      "division": "CHILTAN TOWN",
+      "elevation": "5609 ± 6m",
+      "lat": "30.1346944444444",
+      "lng": "66.9773888888889",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Faizabad old",
+      "division": "CHILTAN TOWN",
+      "elevation": "5628 ± 4m",
+      "installation_date": "7/9/1996",
+      "lat": "30.1234444444444",
+      "lng": "66.9749166666667",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Haq Bahoo Sariab Road near Faizabad",
+      "division": "CHILTAN TOWN",
+      "elevation": "5638 ± 3m",
+      "installation_date": "7/5/2003",
+      "lat": "30.1222777777778",
+      "lng": "66.9769722222222",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Gishkori bank colony Sabzal Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5508 ± 3m",
+      "installation_date": "10/2/2007",
+      "lat": "30.1691666666667",
+      "lng": "66.9827777777778",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mian Ghundi - 1",
+      "division": "CHILTAN TOWN",
+      "elevation": "5682 ± 3m",
+      "installation_date": "25.9.14",
+      "lat": "30.07125",
+      "lng": "66.9716388888889",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mian ghundi - 2 solar",
+      "division": "CHILTAN TOWN",
+      "elevation": "5697 ± 3m",
+      "installation_date": "2019",
+      "lat": "30.0637777777778",
+      "lng": "66.972",
+      "rock_type": "H/R",
+      "status": "not energized yet",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mian ghundi dawood shahwani",
+      "division": "CHILTAN TOWN",
+      "elevation": "5806 ± 3m",
+      "installation_date": "2019",
+      "lat": "30.0464722222222",
+      "lng": "66.9391666666667",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Hazarganji chowrangi add - S 2",
+      "division": "CHILTAN TOWN",
+      "elevation": "5730 ± 3m",
+      "lat": "30.0968055555556",
+      "lng": "66.9396111111111",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Add S - 1 Hazar Ganji Solar",
+      "division": "CHILTAN TOWN",
+      "elevation": "5771 ± 3m",
+      "installation_date": "30-05-2001",
+      "lat": "30.1052222222222",
+      "lng": "66.9376666666667",
+      "pipe_diameter": "3",
+      "rock_type": "H/R",
+      "status": "not energized yet",
+      "subdivision": "SARIAB 2 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "S - 1 Hazarganji",
+      "division": "CHILTAN TOWN",
+      "elevation": "5704 ± 3m",
+      "installation_date": "10/8/2006",
+      "lat": "30.1150555555556",
+      "lng": "66.9394166666667",
+      "pipe_diameter": "3",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "S - 2 Hazarganji",
+      "division": "CHILTAN TOWN",
+      "elevation": "5740 ± 3m",
+      "installation_date": "28-10-2001",
+      "lat": "30.1017222222222",
+      "lng": "66.9398055555556",
+      "pipe_diameter": "3",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "S - 3 Hazarganji",
+      "division": "CHILTAN TOWN",
+      "elevation": "5715 ± 3m",
+      "installation_date": "24-06-2003",
+      "lat": "30.0903333333333",
+      "lng": "66.93875",
+      "pipe_diameter": "3",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "S - 4 Hazarganji",
+      "division": "CHILTAN TOWN",
+      "elevation": "5701 ± 3m",
+      "installation_date": "12/6/2001",
+      "lat": "30.0811111111111",
+      "lng": "66.9366944444444",
+      "pipe_diameter": "4",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "QDA No-4 Hazar Gunji RTU 42",
+      "division": "CHILTAN TOWN",
+      "elevation": "5716 ± 4m",
+      "installation_date": "20-06-2004",
+      "lat": "30.0763611111111",
+      "lng": "66.9362777777778",
+      "pipe_diameter": "2.5",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi lalabad new",
+      "division": "CHILTAN TOWN",
+      "elevation": "5698 ± 2m",
+      "lat": "30.0780833333333",
+      "lng": "66.9381944444445",
+      "rock_type": "Alluvial",
+      "status": "not energized yet",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "QDA No-3 Hazar Gunji",
+      "division": "CHILTAN TOWN",
+      "elevation": "5790 ± 3m",
+      "lat": "30.0799166666667",
+      "lng": "66.9316944444445",
+      "rock_type": "H/R",
+      "status": "Abandoned, ciminted surface",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "QDA No-6 Truck Adda Hazar Gangi",
+      "division": "CHILTAN TOWN",
+      "elevation": "5772 ± 3m",
+      "installation_date": "21-03-2006",
+      "lat": "30.0886111111111",
+      "lng": "66.9332777777778",
+      "pipe_diameter": "3",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "QDA No-7 Truck Adda Hazar Gangi  RTU 41",
+      "division": "CHILTAN TOWN",
+      "elevation": "5779 ± 3m",
+      "installation_date": "7/3/2007",
+      "lat": "30.0930555555556",
+      "lng": "66.9341388888889",
+      "pipe_diameter": "4",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "QDA No-8 Truck Adda Hazar Gangi",
+      "division": "CHILTAN TOWN",
+      "elevation": "5750 ± 3m",
+      "lat": "30.0969722222222",
+      "lng": "66.9389444444444",
+      "rock_type": "H/R",
+      "status": "Abandoned, ciminted surface",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "QDA - 1",
+      "division": "CHILTAN TOWN",
+      "elevation": "5715 ± 3m",
+      "lat": "30.11425",
+      "lng": "66.9346111111111",
+      "rock_type": "H/R",
+      "status": "Abandoned,W/L not found till 550 feet",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "QDA - 2",
+      "division": "CHILTAN TOWN",
+      "elevation": "5791 ± 4m",
+      "lat": "30.1120277777778",
+      "lng": "66.9320277777778",
+      "rock_type": "H/R",
+      "status": "Abandoned,W/L not found till 550 feet",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "S - 5 Hazarganji",
+      "division": "CHILTAN TOWN",
+      "elevation": "5777 ± 3m",
+      "installation_date": "15-07-2001",
+      "lat": "30.0740277777778",
+      "lng": "66.9315",
+      "pipe_diameter": "3",
+      "rock_type": "H/R",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Landi - 1",
+      "division": "CHILTAN TOWN",
+      "elevation": "5817± 4m",
+      "installation_date": "12/8/2014",
+      "lat": "30.0411666666667",
+      "lng": "66.9582777777778",
+      "rock_type": "H/R",
+      "status": "Abandoned",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Landi - 2",
+      "division": "CHILTAN TOWN",
+      "elevation": "5793 ± 4m",
+      "lat": "30.0343888888889",
+      "lng": "66.9704166666667",
+      "rock_type": "H/R",
+      "status": "Abandoned",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Welfare housing benovelent fund 2 new",
+      "division": "CHILTAN TOWN",
+      "elevation": "5643 ± 4m",
+      "lat": "30.1027777777778",
+      "lng": "66.9774444444444",
+      "rock_type": "Alluvial",
+      "status": "not energized yet",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Welfare housing benovelent fund 1 Old local bore",
+      "division": "CHILTAN TOWN",
+      "elevation": "5646 ± 3m",
+      "installation_date": "05.01.16",
+      "lat": "30.1075555555556",
+      "lng": "66.9793888888889",
+      "rock_type": "Alluvial",
+      "status": "Disconected by Qesco since last 8 monts",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Chilton Mohammad shahi",
+      "division": "CHILTAN TOWN",
+      "elevation": "5616 ± 3m",
+      "installation_date": "24.12.14",
+      "lat": "30.1013888888889",
+      "lng": "66.9729722222222",
+      "rock_type": "Alluvial",
+      "status": "Abandoned and occupied by land lord",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Madrassa dar ul aloom rahimi town",
+      "division": "CHILTAN TOWN",
+      "elevation": "5632 ± 3m",
+      "lat": "30.0823055555556",
+      "lng": "66.9752777777778",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Madrassa behrul aloom mastung road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5624 ± 3m",
+      "installation_date": "25-09-2006",
+      "lat": "30.0866944444444",
+      "lng": "66.9660555555556",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Zehri town hazarganji",
+      "division": "CHILTAN TOWN",
+      "elevation": "5603 ± 4m",
+      "lat": "30.0881944444444",
+      "lng": "66.9497222222222",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi Barow Qambarani Road RTU 78",
+      "division": "CHILTAN TOWN",
+      "elevation": "5573± 3m",
+      "installation_date": "31-12-2003",
+      "lat": "30.1121111111111",
+      "lng": "66.9584166666667",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Out of order since last 3 months",
+      "subdivision": "SARIAB 2 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi sarda qambrani road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5560 ± 3m",
+      "installation_date": "6/4/2007",
+      "lat": "30.1238611111111",
+      "lng": "66.9634444444444",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi gugrai malik muzafar",
+      "division": "CHILTAN TOWN",
+      "elevation": "5525 ± 3m",
+      "installation_date": "25-04-18",
+      "lat": "30.1413055555556",
+      "lng": "66.9751388888889",
+      "rock_type": "Alluvial",
+      "status": "not energized yet",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Kashmirabad qambrani road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5497 ± 4m",
+      "lat": "30.1622222222222",
+      "lng": "66.9772777777778",
+      "rock_type": "Alluvial",
+      "status": "Abandoned and occupied by land lord",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi kamal abad",
+      "division": "CHILTAN TOWN",
+      "elevation": "5631 ± 3m",
+      "lat": "30.1050555555556",
+      "lng": "66.9621666666667",
+      "rock_type": "Alluvial",
+      "status": "Abandoned and occupied by land lord",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Killi qambrani samina saeed",
+      "division": "CHILTAN TOWN",
+      "elevation": "5513 ± 4m",
+      "installation_date": "30-7-2007",
+      "lat": "30.1676111111111",
+      "lng": "66.9814722222222",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Kechi baig Haji bismillah",
+      "division": "CHILTAN TOWN",
+      "elevation": "5581 ± 3m",
+      "lat": "30.1348333333333",
+      "lng": "66.9732222222222",
+      "rock_type": "Alluvial",
+      "status": "not energized yet",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Kashmirabad Ferozabad",
+      "division": "CHILTAN TOWN",
+      "elevation": "5488 ± 3m",
+      "installation_date": "20.07.14",
+      "lat": "30.1691944444444",
+      "lng": "66.9850277777778",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Ferozabad Aqakhail Colony",
+      "division": "CHILTAN TOWN",
+      "elevation": "5446 ± 3m",
+      "installation_date": "31.03.17",
+      "lat": "30.1729166666667",
+      "lng": "66.9809444444445",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 2 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Arbab Karam khan Road Rindabad",
+      "division": "CHILTAN TOWN",
+      "elevation": "5453± 3m",
+      "installation_date": "10.4.2009",
+      "lat": "30.1809722222222",
+      "lng": "66.9853888888889",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 1 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Ahmed Shah Kakar Lala Abdul Rehman Mohalla Shekhan",
+      "division": "CHILTAN TOWN",
+      "elevation": "5471 ± 3m",
+      "lat": "30.1775",
+      "lng": "66.9877222222222",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 1 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Bangulzai Garr Sadabahar Terminal",
+      "division": "CHILTAN TOWN",
+      "elevation": "5522 ± 3m",
+      "installation_date": "26--06-2006",
+      "lat": "30.1781944444444",
+      "lng": "66.9930555555556",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 1 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Green Town Sariab Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5577 ± 4m",
+      "lat": "30.1665555555556",
+      "lng": "66.9890555555556",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Abandoned, back filled",
+      "subdivision": "SARIAB 1 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Gujjar Street Arbab Karam Khan Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5488± 3m",
+      "lat": "30.1828888888889",
+      "lng": "66.9938611111111",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 1 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Kharan street sariab road near NADRA office",
+      "division": "CHILTAN TOWN",
+      "elevation": "5518± 3m",
+      "lat": "30.1750277777778",
+      "lng": "66.9934722222222",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 1 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Qurban Ali Bagh Gulshan e hoti",
+      "division": "CHILTAN TOWN",
+      "elevation": "5516 ± 3m",
+      "installation_date": "15.06.14",
+      "lat": "30.1785833333333",
+      "lng": "66.9955",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 1 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Sheikh Atta Street Arbab Karam Khan Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5482 ± 3m",
+      "installation_date": "28.08.15",
+      "lat": "30.1798333333333",
+      "lng": "66.9868611111111",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 1 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Railway Hospital Sariab Phatak",
+      "division": "CHILTAN TOWN",
+      "elevation": "5575 ± 3m",
+      "installation_date": "8/4/2007",
+      "lat": "30.1821944444444",
+      "lng": "66.9963055555556",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "SARIAB 1 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Raisani Road ( Kabari ) RTU 46",
+      "division": "CHILTAN TOWN",
+      "elevation": "5494 ± 3m",
+      "installation_date": "24-04-2006",
+      "lat": "30.1715555555556",
+      "lng": "66.9855833333333",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 1 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Raisani Road (jan Mohammad Khatee )",
+      "division": "CHILTAN TOWN",
+      "elevation": "5512 ± 3m",
+      "installation_date": "7/11/2003",
+      "lat": "30.1740555555556",
+      "lng": "66.9898888888889",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 1 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Mir Hassan near Community Center Raisani Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5491 ± 3m",
+      "lat": "30.1787777777778",
+      "lng": "66.9907222222222",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 1 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Hazrat ali Masjid Haji Mohammad noor killi sheikhan",
+      "division": "CHILTAN TOWN",
+      "elevation": "5478 ± 3m",
+      "lat": "30.1776944444444",
+      "lng": "66.9896944444444",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 1 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Sher Mohammad dairy Raisani Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5504 ± 3m",
+      "lat": "30.1764444444444",
+      "lng": "66.9909166666667",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 1 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Shah Zaman Road  ( Gujar street )",
+      "division": "CHILTAN TOWN",
+      "elevation": "5484± 4m",
+      "installation_date": "24-04-2006",
+      "lat": "30.1838888888889",
+      "lng": "66.99325",
+      "pipe_diameter": "2.5",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 1 SUB DIVISION",
+      "tw_diameter": "60"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Shah Zaman Road Chakar Khan RTU 74",
+      "division": "CHILTAN TOWN",
+      "elevation": "5460 ± 3m",
+      "installation_date": "25-02-2007",
+      "lat": "30.1855833333333",
+      "lng": "66.9883333333333",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Energized",
+      "subdivision": "SARIAB 1 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Sariab Link Road narsary",
+      "division": "CHILTAN TOWN",
+      "elevation": "5546 ± 3m",
+      "installation_date": "02.09.1996",
+      "lat": "30.1695277777778",
+      "lng": "66.9942222222222",
+      "pipe_diameter": "3",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "SARIAB 1 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Gulistan e Siddique GSP Sariab Road",
+      "division": "CHILTAN TOWN",
+      "elevation": "5531 ± 4m",
+      "installation_date": "27.04.15",
+      "lat": "30.1688611111111",
+      "lng": "66.992",
+      "rock_type": "Alluvial",
+      "status": "Disconected by Qesco since last 3 monts",
+      "subdivision": "SARIAB 1 SUB DIVISION",
+      "tw_diameter": "10"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Haji Manzoor killi sheikhan",
+      "division": "CHILTAN TOWN",
+      "elevation": "5459 ± 4m",
+      "lat": "30.1804444444444",
+      "lng": "66.9879722222222",
+      "rock_type": "Alluvial",
+      "status": "Pump pulout since last 6 months",
+      "subdivision": "SARIAB 1 SUB DIVISION"
+    }
+  },
+  {
+    "department_name": "Q-WASA",
+    "type": "tubewell",
+    "attributes": {
+      "name": "Sariab sdo office",
+      "division": "CHILTAN TOWN",
+      "elevation": "5526 ± 4m",
+      "lat": "30.1828888888889",
+      "lng": "66.9985277777778",
+      "rock_type": "Alluvial",
+      "status": "Abandoned",
+      "subdivision": "SARIAB 1 SUB DIVISION"
+    }
+  }
+]
