@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "organization": "UNDP",
+    "address": "Islamabad",
+    "sector": 2,
+    "phone": "051251544"
+  },
+  {
+    "id": 2,
+    "organization": "Gwadar Institute of Technology",
+    "address": "Gwadar",
+    "sector": 2,
+    "phone": "081545445"
+  },
+  {
+    "id": 3,
+    "organization": "IBA",
+    "address": "Karachi",
+    "sector": 2,
+    "phone": "021545554"
+  },
+  {
+    "id": 4,
+    "organization": "Hashoo Foundation",
+    "address": "Karachi",
+    "sector": 2,
+    "phone": "021352145"
+  },
+  {
+    "id": 5,
+    "organization": "Lasbela University",
+    "address": "Lasbela",
+    "sector": 1,
+    "phone": "081525525"
+  },
+  {
+    "id": 6,
+    "organization": "BUITEMS",
+    "address": "Quetta",
+    "sector": 3,
+    "phone": "081525526"
+  },
+  {
+    "id": 7,
+    "organization": "UoB",
+    "address": "Quetta",
+    "sector": 1,
+    "phone": "081525527"
+  },
+  {
+    "id": 8,
+    "organization": "Iqra University ",
+    "address": "Quetta",
+    "sector": 2,
+    "phone": "081525528"
+  },
+  {
+    "id": 9,
+    "organization": "UET Khuzdar",
+    "address": "Khuzdar",
+    "sector": 1,
+    "phone": "081525529"
+  },
+  {
+    "id": 10,
+    "organization": "Tameer-i-nau college",
+    "address": "Quetta",
+    "sector": 2,
+    "phone": "081525530"
+  },
+  {
+    "id": 11,
+    "organization": "Musa Cadet College",
+    "address": "Quetta",
+    "sector": 1,
+    "phone": "081525531"
+  },
+  {
+    "id": 12,
+    "organization": "Military College",
+    "address": "Quetta",
+    "sector": 1,
+    "phone": "081525532"
+  },
+  {
+    "id": 13,
+    "organization": "TTC",
+    "address": "Quetta",
+    "sector": 1,
+    "phone": "081525533"
+  },
+  {
+    "id": 14,
+    "organization": "PSTC",
+    "address": "Quetta",
+    "sector": 1,
+    "phone": "081525534"
+  },
+  {
+    "id": 15,
+    "organization": "University of Turbat",
+    "address": "Turbat",
+    "sector": 1,
+    "phone": "081525535"
+  },
+  {
+    "id": 16,
+    "organization": "Virtual University",
+    "address": "Islamabad",
+    "sector": 1,
+    "phone": "081525536"
+  },
+  {
+    "id": 17,
+    "organization": "National College of Arts",
+    "address": "Lahore",
+    "sector": 1,
+    "phone": "081525537"
+  },
+  {
+    "id": 18,
+    "organization": "SBK",
+    "address": "Quetta",
+    "sector": 2,
+    "phone": "081525538"
+  },
+  {
+    "id": 19,
+    "organization": "Girls Degree College",
+    "address": "Quetta",
+    "sector": 1,
+    "phone": "081525539"
+  },
+  {
+    "id": 20,
+    "organization": "Islamia Girls College",
+    "address": "Quetta",
+    "sector": 1,
+    "phone": "081525540"
+  },
+  {
+    "id": 21,
+    "organization": "Polytechnic Institute for Girls College",
+    "address": "Quetta",
+    "sector": 1,
+    "phone": "081525541"
+  },
+  {
+    "id": 22,
+    "organization": "Uob Gawader Campus",
+    "address": "Gwadar",
+    "sector": 1,
+    "phone": "081525542"
+  },
+  {
+    "id": 23,
+    "organization": "VTI ",
+    "address": "Quetta",
+    "sector": 1,
+    "phone": "081525543"
+  },
+  {
+    "id": 24,
+    "organization": "Quetta Law College",
+    "address": "Quetta",
+    "sector": 1,
+    "phone": "081525544"
+  },
+  {
+    "id": 25,
+    "organization": "Kharan College",
+    "address": "Kharan",
+    "sector": 1,
+    "phone": "081525545"
+  },
+  {
+    "id": 26,
+    "organization": "Jinnah Town College",
+    "address": "Quetta",
+    "sector": 1,
+    "phone": "081525546"
+  },
+  {
+    "id": 27,
+    "organization": "NISA Insitute of Science & Arts",
+    "address": "Quetta",
+    "sector": 2,
+    "phone": "081525547"
+  },
+  {
+    "id": 28,
+    "organization": "Alhamd Islamic University",
+    "address": "Quetta",
+    "sector": 2,
+    "phone": "081525548"
+  },
+  {
+    "id": 29,
+    "organization": "Girl's College Cantt",
+    "address": "Quetta",
+    "sector": 1,
+    "phone": "081525549"
+  },
+  {
+    "id": 30,
+    "organization": "Q-WASA",
+    "address": "Quetta",
+    "sector": 1,
+    "phone": "081455425"
+  },
+  {
+    "id": 31,
+    "organization": "Public Health Engineering",
+    "address": "Quetta",
+    "sector": 1,
+    "phone": "081454585"
+  }
+]
